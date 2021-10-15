@@ -1,0 +1,5490 @@
+Classification Information:
+- Difference between Detections and GT:
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000000.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 9
+  Number of GT Labels: 3
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000001.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 9
+  Number of GT Labels: 3
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 3
+    parking meter: 1
+    person: 3
+    traffic light: 4
+  Frame: kitti_sequential/images/training/image_02/0006/000002.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 11
+  Number of GT Labels: 3
+  Objects Detected:
+    car: 3
+    parking meter: 1
+    person: 3
+    traffic light: 4
+- Difference between Detections and GT:
+    car: 1
+    parking meter: 1
+    person: 2
+    traffic light: 4
+  Frame: kitti_sequential/images/training/image_02/0006/000003.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 8
+  Number of GT Labels: 3
+  Objects Detected:
+    car: 1
+    parking meter: 1
+    person: 2
+    traffic light: 4
+- Difference between Detections and GT:
+    car: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000004.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 2
+    DontCare: 2
+  Number of Detections: 7
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 2
+    parking meter: 1
+    person: 3
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000005.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 2
+    DontCare: 2
+  Number of Detections: 9
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 2
+    parking meter: 1
+    person: 3
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 3
+    person: 2
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000006.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 2
+    DontCare: 2
+  Number of Detections: 8
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 3
+    person: 2
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000007.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 2
+    DontCare: 2
+  Number of Detections: 10
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 2
+    fire hydrant: 1
+    person: 2
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000008.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 8
+  Number of GT Labels: 3
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    person: 2
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 1
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000009.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 8
+  Number of GT Labels: 3
+  Objects Detected:
+    car: 1
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 1
+    fire hydrant: 1
+    person: 4
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000010.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 9
+  Number of GT Labels: 3
+  Objects Detected:
+    car: 1
+    fire hydrant: 1
+    person: 4
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 1
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000011.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 9
+  Number of GT Labels: 3
+  Objects Detected:
+    car: 1
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 2
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000012.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 9
+  Number of GT Labels: 3
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 1
+    fire hydrant: 1
+    parking meter: 1
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000013.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 6
+  Number of GT Labels: 3
+  Objects Detected:
+    car: 1
+    fire hydrant: 1
+    parking meter: 1
+    traffic light: 3
+- Difference between Detections and GT:
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000014.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 7
+  Number of GT Labels: 3
+  Objects Detected:
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+- Difference between Detections and GT:
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000015.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 8
+  Number of GT Labels: 3
+  Objects Detected:
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+- Difference between Detections and GT:
+    fire hydrant: 1
+    parking meter: 1
+    person: 4
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000016.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 9
+  Number of GT Labels: 3
+  Objects Detected:
+    fire hydrant: 1
+    parking meter: 1
+    person: 4
+    traffic light: 3
+- Difference between Detections and GT:
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000017.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 8
+  Number of GT Labels: 3
+  Objects Detected:
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 1
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000018.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 8
+  Number of GT Labels: 3
+  Objects Detected:
+    car: 1
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000019.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 9
+  Number of GT Labels: 3
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 1
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000020.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 9
+  Number of GT Labels: 3
+  Objects Detected:
+    car: 1
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+- Difference between Detections and GT:
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000021.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 8
+  Number of GT Labels: 3
+  Objects Detected:
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000022.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 10
+  Number of GT Labels: 3
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000023.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 9
+  Number of GT Labels: 3
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000024.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 10
+  Number of GT Labels: 3
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000025.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 9
+  Number of GT Labels: 3
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000026.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 9
+  Number of GT Labels: 3
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000027.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 9
+  Number of GT Labels: 3
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000028.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 9
+  Number of GT Labels: 3
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000029.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 9
+  Number of GT Labels: 3
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000030.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 10
+  Number of GT Labels: 3
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000031.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 9
+  Number of GT Labels: 3
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000032.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 10
+  Number of GT Labels: 3
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000033.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 10
+  Number of GT Labels: 3
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 4
+  Frame: kitti_sequential/images/training/image_02/0006/000034.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+  Number of Detections: 12
+  Number of GT Labels: 3
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 4
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000035.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 2
+    DontCare: 2
+  Number of Detections: 12
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000036.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 2
+    DontCare: 2
+  Number of Detections: 10
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 4
+  Frame: kitti_sequential/images/training/image_02/0006/000037.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 2
+    DontCare: 2
+  Number of Detections: 11
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 4
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 1
+    person: 2
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000038.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 2
+    DontCare: 2
+  Number of Detections: 9
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    person: 2
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 1
+    person: 2
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000039.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 2
+    DontCare: 2
+  Number of Detections: 9
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    person: 2
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 2
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000040.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 2
+    DontCare: 2
+  Number of Detections: 9
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000041.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 3
+    DontCare: 2
+  Number of Detections: 10
+  Number of GT Labels: 5
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000042.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 3
+    DontCare: 2
+  Number of Detections: 8
+  Number of GT Labels: 5
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000043.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 3
+    DontCare: 2
+  Number of Detections: 9
+  Number of GT Labels: 5
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    person: 2
+    traffic light: 4
+  Frame: kitti_sequential/images/training/image_02/0006/000044.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 3
+    DontCare: 2
+  Number of Detections: 12
+  Number of GT Labels: 5
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    person: 2
+    traffic light: 4
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 1
+    person: 2
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000045.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 3
+    DontCare: 2
+  Number of Detections: 9
+  Number of GT Labels: 5
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    person: 2
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000046.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 3
+    DontCare: 2
+  Number of Detections: 10
+  Number of GT Labels: 5
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 6
+    fire hydrant: 1
+    person: 4
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000047.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 2
+    DontCare: 3
+  Number of Detections: 14
+  Number of GT Labels: 5
+  Objects Detected:
+    car: 6
+    fire hydrant: 1
+    person: 4
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000048.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 2
+    DontCare: 3
+  Number of Detections: 10
+  Number of GT Labels: 5
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 1
+    person: 4
+    traffic light: 4
+  Frame: kitti_sequential/images/training/image_02/0006/000049.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 2
+    DontCare: 3
+  Number of Detections: 12
+  Number of GT Labels: 5
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    person: 4
+    traffic light: 4
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000050.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 2
+    DontCare: 3
+  Number of Detections: 10
+  Number of GT Labels: 5
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 4
+  Frame: kitti_sequential/images/training/image_02/0006/000051.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 2
+    DontCare: 3
+  Number of Detections: 11
+  Number of GT Labels: 5
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 4
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000052.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 2
+    DontCare: 3
+  Number of Detections: 10
+  Number of GT Labels: 5
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000053.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 3
+    DontCare: 3
+  Number of Detections: 10
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 4
+  Frame: kitti_sequential/images/training/image_02/0006/000054.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 3
+    DontCare: 3
+  Number of Detections: 11
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 4
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000055.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 3
+  Number of Detections: 11
+  Number of GT Labels: 7
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    person: 2
+    traffic light: 4
+  Frame: kitti_sequential/images/training/image_02/0006/000056.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 3
+  Number of Detections: 11
+  Number of GT Labels: 7
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    person: 2
+    traffic light: 4
+- Difference between Detections and GT:
+    backpack: 1
+    car: 4
+    fire hydrant: 1
+    motorcycle: 1
+    person: 4
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000057.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 3
+  Number of Detections: 14
+  Number of GT Labels: 7
+  Objects Detected:
+    backpack: 1
+    car: 4
+    fire hydrant: 1
+    motorcycle: 1
+    person: 4
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 6
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000058.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 3
+  Number of Detections: 13
+  Number of GT Labels: 7
+  Objects Detected:
+    car: 6
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 6
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000059.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 2
+  Number of Detections: 13
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 6
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 7
+    fire hydrant: 1
+    person: 1
+    traffic light: 4
+  Frame: kitti_sequential/images/training/image_02/0006/000060.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 2
+  Number of Detections: 13
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 7
+    fire hydrant: 1
+    person: 1
+    traffic light: 4
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000061.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 2
+  Number of Detections: 10
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    person: 1
+    traffic light: 4
+  Frame: kitti_sequential/images/training/image_02/0006/000062.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 2
+  Number of Detections: 11
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    person: 1
+    traffic light: 4
+- Difference between Detections and GT:
+    car: 6
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000063.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 2
+  Number of Detections: 12
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 6
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000064.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 2
+  Number of Detections: 11
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000065.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 2
+  Number of Detections: 11
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000066.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 2
+  Number of Detections: 11
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000067.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 2
+  Number of Detections: 13
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 6
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000068.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 2
+    Truck: 1
+  Number of Detections: 13
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 6
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+- Difference between Detections and GT:
+    bus: 1
+    car: 6
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000069.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 2
+    Truck: 1
+  Number of Detections: 15
+  Number of GT Labels: 8
+  Objects Detected:
+    bus: 1
+    car: 6
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 7
+    fire hydrant: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000070.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 2
+    Truck: 1
+  Number of Detections: 14
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 7
+    fire hydrant: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 6
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000071.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 2
+    Truck: 1
+  Number of Detections: 14
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 6
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 6
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000072.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 2
+    Truck: 1
+  Number of Detections: 14
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 6
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000073.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 2
+    Truck: 1
+  Number of Detections: 12
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000074.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 2
+    Truck: 1
+  Number of Detections: 10
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000075.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 2
+    Truck: 1
+  Number of Detections: 9
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000076.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 2
+    Truck: 1
+  Number of Detections: 10
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000077.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 2
+    Truck: 1
+  Number of Detections: 10
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 6
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000078.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 2
+    Truck: 1
+  Number of Detections: 12
+  Number of GT Labels: 7
+  Objects Detected:
+    car: 6
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000079.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 2
+    Truck: 1
+  Number of Detections: 10
+  Number of GT Labels: 7
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    person: 1
+    traffic light: 4
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000080.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 2
+    Truck: 1
+  Number of Detections: 11
+  Number of GT Labels: 7
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    person: 1
+    traffic light: 4
+    truck: 1
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000081.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 2
+    Truck: 1
+  Number of Detections: 10
+  Number of GT Labels: 7
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    person: 1
+    traffic light: 4
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000082.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 3
+    DontCare: 2
+    Truck: 1
+  Number of Detections: 11
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    person: 1
+    traffic light: 4
+    truck: 1
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000083.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 3
+    DontCare: 2
+    Truck: 1
+  Number of Detections: 10
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000084.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 3
+    DontCare: 2
+    Truck: 1
+  Number of Detections: 10
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000085.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 2
+    Truck: 1
+  Number of Detections: 12
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000086.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 2
+    Truck: 1
+  Number of Detections: 12
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 6
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000087.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 12
+  Number of GT Labels: 9
+  Objects Detected:
+    car: 6
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000088.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 11
+  Number of GT Labels: 9
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 6
+    fire hydrant: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000089.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 13
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 6
+    fire hydrant: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    person: 3
+    traffic light: 4
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000090.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 13
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    person: 3
+    traffic light: 4
+    truck: 1
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000091.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 9
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000092.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 10
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000093.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 9
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000094.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 11
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 6
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000095.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 13
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 6
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000096.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 14
+  Number of GT Labels: 9
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 4
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000097.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 15
+  Number of GT Labels: 9
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 4
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 7
+    fire hydrant: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000098.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 14
+  Number of GT Labels: 9
+  Objects Detected:
+    car: 7
+    fire hydrant: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000099.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 13
+  Number of GT Labels: 9
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 6
+    fire hydrant: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000100.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 13
+  Number of GT Labels: 9
+  Objects Detected:
+    car: 6
+    fire hydrant: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 8
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0006/000101.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 6
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 15
+  Number of GT Labels: 10
+  Objects Detected:
+    car: 8
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+    truck: 2
+- Difference between Detections and GT:
+    car: 8
+    fire hydrant: 1
+    person: 1
+    traffic light: 4
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0006/000102.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 4
+    Truck: 1
+  Number of Detections: 16
+  Number of GT Labels: 10
+  Objects Detected:
+    car: 8
+    fire hydrant: 1
+    person: 1
+    traffic light: 4
+    truck: 2
+- Difference between Detections and GT:
+    car: 7
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000103.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 13
+  Number of GT Labels: 9
+  Objects Detected:
+    car: 7
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 7
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000104.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 13
+  Number of GT Labels: 9
+  Objects Detected:
+    car: 7
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 8
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000105.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 16
+  Number of GT Labels: 9
+  Objects Detected:
+    car: 8
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 6
+    fire hydrant: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000106.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 13
+  Number of GT Labels: 9
+  Objects Detected:
+    car: 6
+    fire hydrant: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000107.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 10
+  Number of GT Labels: 9
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 7
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000108.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 13
+  Number of GT Labels: 9
+  Objects Detected:
+    car: 7
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 6
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    stop sign: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000109.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 14
+  Number of GT Labels: 9
+  Objects Detected:
+    car: 6
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    stop sign: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000110.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 13
+  Number of GT Labels: 9
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000111.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 11
+  Number of GT Labels: 9
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    bus: 1
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000112.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 13
+  Number of GT Labels: 9
+  Objects Detected:
+    bus: 1
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    bus: 1
+    car: 7
+    fire hydrant: 1
+    parking meter: 1
+    person: 4
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000113.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 18
+  Number of GT Labels: 9
+  Objects Detected:
+    bus: 1
+    car: 7
+    fire hydrant: 1
+    parking meter: 1
+    person: 4
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 4
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000114.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 5
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 15
+  Number of GT Labels: 9
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 4
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    bus: 1
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 5
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000115.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 15
+  Number of GT Labels: 8
+  Objects Detected:
+    bus: 1
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 5
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 5
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000116.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 15
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 5
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000117.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 12
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000118.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 12
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000119.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 11
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    person: 4
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000120.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 12
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    person: 4
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000121.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 11
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 4
+  Frame: kitti_sequential/images/training/image_02/0006/000122.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 3
+    Truck: 1
+  Number of Detections: 12
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 4
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000123.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 3
+    Truck: 1
+    Van: 1
+  Number of Detections: 12
+  Number of GT Labels: 9
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000124.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 3
+    Truck: 1
+    Van: 1
+  Number of Detections: 11
+  Number of GT Labels: 9
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    person: 2
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000125.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 3
+    Truck: 1
+    Van: 1
+  Number of Detections: 10
+  Number of GT Labels: 9
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    person: 2
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 6
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000126.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 3
+    Truck: 1
+    Van: 1
+  Number of Detections: 11
+  Number of GT Labels: 9
+  Objects Detected:
+    car: 6
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    person: 4
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000127.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 3
+    Truck: 1
+    Van: 1
+  Number of Detections: 13
+  Number of GT Labels: 9
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    person: 4
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000128.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 3
+    Truck: 1
+    Van: 1
+  Number of Detections: 11
+  Number of GT Labels: 9
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000129.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 3
+    Truck: 1
+    Van: 1
+  Number of Detections: 12
+  Number of GT Labels: 9
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000130.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 3
+    Truck: 1
+    Van: 1
+  Number of Detections: 10
+  Number of GT Labels: 9
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000131.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 2
+    Truck: 1
+    Van: 1
+  Number of Detections: 10
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000132.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 2
+    Truck: 1
+    Van: 1
+  Number of Detections: 11
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000133.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 2
+    Truck: 1
+    Van: 1
+  Number of Detections: 12
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000134.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 2
+    Truck: 1
+    Van: 1
+  Number of Detections: 12
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 7
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000135.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 4
+    DontCare: 2
+    Truck: 1
+    Van: 1
+  Number of Detections: 13
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 7
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000136.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 3
+    DontCare: 3
+    Truck: 1
+    Van: 1
+  Number of Detections: 12
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 4
+    traffic light: 4
+  Frame: kitti_sequential/images/training/image_02/0006/000137.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 3
+    DontCare: 3
+    Truck: 1
+    Van: 1
+  Number of Detections: 15
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 4
+    traffic light: 4
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 4
+  Frame: kitti_sequential/images/training/image_02/0006/000138.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 3
+    DontCare: 3
+    Truck: 1
+    Van: 1
+  Number of Detections: 13
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 4
+- Difference between Detections and GT:
+    car: 6
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 4
+  Frame: kitti_sequential/images/training/image_02/0006/000139.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 3
+    DontCare: 3
+    Truck: 1
+    Van: 1
+  Number of Detections: 14
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 6
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 4
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000140.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 3
+    DontCare: 4
+    Van: 1
+  Number of Detections: 12
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000141.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 3
+    DontCare: 4
+    Van: 1
+  Number of Detections: 11
+  Number of GT Labels: 8
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000142.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 2
+    DontCare: 4
+    Van: 1
+  Number of Detections: 11
+  Number of GT Labels: 7
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 6
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000143.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 2
+    DontCare: 4
+    Van: 1
+  Number of Detections: 14
+  Number of GT Labels: 7
+  Objects Detected:
+    car: 6
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000144.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 2
+    DontCare: 4
+    Van: 1
+  Number of Detections: 12
+  Number of GT Labels: 7
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000145.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 2
+    DontCare: 4
+    Van: 1
+  Number of Detections: 12
+  Number of GT Labels: 7
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000146.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 2
+    DontCare: 4
+    Van: 1
+  Number of Detections: 11
+  Number of GT Labels: 7
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    person: 3
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000147.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 2
+    DontCare: 4
+    Van: 1
+  Number of Detections: 11
+  Number of GT Labels: 7
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000148.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 2
+    DontCare: 4
+    Van: 1
+  Number of Detections: 11
+  Number of GT Labels: 7
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000149.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 2
+    DontCare: 4
+    Van: 1
+  Number of Detections: 11
+  Number of GT Labels: 7
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000150.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 2
+    DontCare: 4
+    Van: 1
+  Number of Detections: 11
+  Number of GT Labels: 7
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 6
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000151.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 2
+    DontCare: 4
+    Van: 1
+  Number of Detections: 14
+  Number of GT Labels: 7
+  Objects Detected:
+    car: 6
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 4
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000152.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 2
+    DontCare: 4
+    Van: 1
+  Number of Detections: 14
+  Number of GT Labels: 7
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 4
+    truck: 1
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 4
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000153.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 5
+    Van: 1
+  Number of Detections: 15
+  Number of GT Labels: 7
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 4
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 4
+  Frame: kitti_sequential/images/training/image_02/0006/000154.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 5
+    Van: 1
+  Number of Detections: 13
+  Number of GT Labels: 7
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 4
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 4
+  Frame: kitti_sequential/images/training/image_02/0006/000155.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 5
+    Van: 1
+  Number of Detections: 14
+  Number of GT Labels: 7
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 4
+- Difference between Detections and GT:
+    car: 7
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 4
+  Frame: kitti_sequential/images/training/image_02/0006/000156.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 5
+    Van: 1
+  Number of Detections: 16
+  Number of GT Labels: 7
+  Objects Detected:
+    car: 7
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 4
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 4
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000157.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 5
+    Van: 1
+  Number of Detections: 15
+  Number of GT Labels: 7
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 4
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 8
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000158.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 4
+    Van: 1
+  Number of Detections: 17
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 8
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 7
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000159.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 4
+    Van: 1
+  Number of Detections: 16
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 7
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 8
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000160.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 4
+    Van: 1
+  Number of Detections: 16
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 8
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000161.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 4
+    Van: 1
+  Number of Detections: 12
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 4
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000162.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 4
+    Van: 1
+  Number of Detections: 15
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 4
+    truck: 1
+- Difference between Detections and GT:
+    car: 6
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 4
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000163.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 4
+    Van: 1
+  Number of Detections: 15
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 6
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 4
+    truck: 1
+- Difference between Detections and GT:
+    bus: 1
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000164.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 4
+    Van: 1
+  Number of Detections: 12
+  Number of GT Labels: 6
+  Objects Detected:
+    bus: 1
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000165.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 4
+    Van: 1
+  Number of Detections: 13
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 5
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000166.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 4
+    Van: 1
+  Number of Detections: 13
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 5
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 4
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0006/000167.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 4
+    Van: 1
+  Number of Detections: 14
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 4
+    truck: 2
+- Difference between Detections and GT:
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 4
+    traffic light: 3
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0006/000168.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 4
+    Van: 1
+  Number of Detections: 13
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 4
+    traffic light: 3
+    truck: 2
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 4
+    truck: 4
+  Frame: kitti_sequential/images/training/image_02/0006/000169.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 4
+    Van: 1
+  Number of Detections: 16
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 4
+    truck: 4
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+    truck: 4
+  Frame: kitti_sequential/images/training/image_02/0006/000170.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 4
+    Van: 1
+  Number of Detections: 17
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+    truck: 4
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 4
+    traffic light: 4
+    truck: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000171.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 4
+    Van: 1
+  Number of Detections: 16
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 4
+    traffic light: 4
+    truck: 3
+- Difference between Detections and GT:
+    car: 6
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+    truck: 4
+  Frame: kitti_sequential/images/training/image_02/0006/000172.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 4
+    Van: 1
+  Number of Detections: 17
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 6
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+    truck: 4
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+    truck: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000173.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 4
+    Van: 1
+  Number of Detections: 15
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+    truck: 3
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0006/000174.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 4
+    Van: 1
+  Number of Detections: 14
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+    truck: 2
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+    truck: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000175.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 4
+    Van: 1
+  Number of Detections: 14
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+    truck: 3
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0006/000176.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 4
+    Van: 1
+  Number of Detections: 13
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+    truck: 2
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0006/000177.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 4
+    Van: 1
+  Number of Detections: 13
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 2
+    traffic light: 3
+    truck: 2
+- Difference between Detections and GT:
+    car: 1
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+    truck: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000178.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 4
+    Van: 1
+  Number of Detections: 10
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 1
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 3
+    truck: 3
+- Difference between Detections and GT:
+    car: 2
+    parking meter: 1
+    person: 2
+    traffic light: 4
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0006/000179.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 5
+  Number of Detections: 11
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 2
+    parking meter: 1
+    person: 2
+    traffic light: 4
+    truck: 2
+- Difference between Detections and GT:
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000180.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 5
+  Number of Detections: 11
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000181.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 5
+  Number of Detections: 14
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 4
+    parking meter: 1
+    person: 3
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000182.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 5
+  Number of Detections: 12
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 4
+    parking meter: 1
+    person: 3
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 5
+    person: 1
+    traffic light: 5
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000183.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 5
+  Number of Detections: 12
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 5
+    person: 1
+    traffic light: 5
+    truck: 1
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 6
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000184.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 5
+  Number of Detections: 16
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 4
+    fire hydrant: 1
+    parking meter: 1
+    person: 3
+    traffic light: 6
+    truck: 1
+- Difference between Detections and GT:
+    car: 4
+    parking meter: 1
+    person: 1
+    traffic light: 5
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000185.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 4
+    Van: 1
+  Number of Detections: 12
+  Number of GT Labels: 6
+  Objects Detected:
+    car: 4
+    parking meter: 1
+    person: 1
+    traffic light: 5
+    truck: 1
+- Difference between Detections and GT:
+    bus: 2
+    car: 3
+    parking meter: 1
+    person: 1
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000186.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 4
+    Van: 1
+  Number of Detections: 10
+  Number of GT Labels: 6
+  Objects Detected:
+    bus: 2
+    car: 3
+    parking meter: 1
+    person: 1
+    traffic light: 3
+- Difference between Detections and GT:
+    bus: 1
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 4
+  Frame: kitti_sequential/images/training/image_02/0006/000187.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 4
+    Van: 1
+  Number of Detections: 10
+  Number of GT Labels: 6
+  Objects Detected:
+    bus: 1
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 1
+    traffic light: 4
+- Difference between Detections and GT:
+    bus: 1
+    car: 4
+    fire hydrant: 2
+    person: 3
+    traffic light: 4
+  Frame: kitti_sequential/images/training/image_02/0006/000188.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 4
+    Van: 1
+  Number of Detections: 14
+  Number of GT Labels: 6
+  Objects Detected:
+    bus: 1
+    car: 4
+    fire hydrant: 2
+    person: 3
+    traffic light: 4
+- Difference between Detections and GT:
+    bus: 2
+    car: 2
+    fire hydrant: 1
+    person: 5
+    traffic light: 5
+  Frame: kitti_sequential/images/training/image_02/0006/000189.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 4
+    Van: 1
+  Number of Detections: 15
+  Number of GT Labels: 6
+  Objects Detected:
+    bus: 2
+    car: 2
+    fire hydrant: 1
+    person: 5
+    traffic light: 5
+- Difference between Detections and GT:
+    bus: 1
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 4
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000190.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 1
+    Van: 1
+  Number of Detections: 12
+  Number of GT Labels: 3
+  Objects Detected:
+    bus: 1
+    car: 2
+    fire hydrant: 1
+    parking meter: 1
+    person: 4
+    traffic light: 3
+- Difference between Detections and GT:
+    bus: 1
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 6
+    traffic light: 4
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000191.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 1
+    Van: 1
+  Number of Detections: 17
+  Number of GT Labels: 3
+  Objects Detected:
+    bus: 1
+    car: 3
+    fire hydrant: 1
+    parking meter: 1
+    person: 6
+    traffic light: 4
+    truck: 1
+- Difference between Detections and GT:
+    car: 2
+    fire hydrant: 2
+    parking meter: 1
+    person: 4
+    traffic light: 6
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000192.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Van: 1
+  Number of Detections: 16
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 2
+    fire hydrant: 2
+    parking meter: 1
+    person: 4
+    traffic light: 6
+    truck: 1
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 2
+    person: 4
+    traffic light: 5
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000193.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Van: 1
+  Number of Detections: 15
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 3
+    fire hydrant: 2
+    person: 4
+    traffic light: 5
+    truck: 1
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 2
+    person: 4
+    traffic light: 5
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000194.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Van: 1
+  Number of Detections: 15
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 3
+    fire hydrant: 2
+    person: 4
+    traffic light: 5
+    truck: 1
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 2
+    parking meter: 1
+    person: 4
+    traffic light: 6
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0006/000195.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Van: 1
+  Number of Detections: 18
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 3
+    fire hydrant: 2
+    parking meter: 1
+    person: 4
+    traffic light: 6
+    truck: 2
+- Difference between Detections and GT:
+    car: 1
+    fire hydrant: 2
+    person: 2
+    stop sign: 1
+    traffic light: 6
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0006/000196.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Van: 1
+  Number of Detections: 14
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 1
+    fire hydrant: 2
+    person: 2
+    stop sign: 1
+    traffic light: 6
+    truck: 2
+- Difference between Detections and GT:
+    car: 2
+    fire hydrant: 1
+    person: 3
+    stop sign: 1
+    traffic light: 6
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000197.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Van: 1
+  Number of Detections: 14
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    person: 3
+    stop sign: 1
+    traffic light: 6
+    truck: 1
+- Difference between Detections and GT:
+    car: 1
+    fire hydrant: 1
+    stop sign: 1
+    traffic light: 5
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000198.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Van: 1
+  Number of Detections: 9
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 1
+    fire hydrant: 1
+    stop sign: 1
+    traffic light: 5
+    truck: 1
+- Difference between Detections and GT:
+    car: 2
+    fire hydrant: 1
+    person: 1
+    traffic light: 6
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0006/000199.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Van: 1
+  Number of Detections: 12
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    person: 1
+    traffic light: 6
+    truck: 2
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 1
+    traffic light: 6
+  Frame: kitti_sequential/images/training/image_02/0006/000200.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Van: 1
+  Number of Detections: 10
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    traffic light: 6
+- Difference between Detections and GT:
+    car: 1
+    fire hydrant: 2
+    person: 3
+    stop sign: 1
+    traffic light: 7
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000201.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Van: 1
+  Number of Detections: 15
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 1
+    fire hydrant: 2
+    person: 3
+    stop sign: 1
+    traffic light: 7
+    truck: 1
+- Difference between Detections and GT:
+    car: 2
+    fire hydrant: 1
+    person: 1
+    traffic light: 5
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000202.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Van: 1
+  Number of Detections: 10
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    person: 1
+    traffic light: 5
+    truck: 1
+- Difference between Detections and GT:
+    car: 1
+    fire hydrant: 1
+    person: 2
+    traffic light: 7
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000203.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Van: 1
+  Number of Detections: 12
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 1
+    fire hydrant: 1
+    person: 2
+    traffic light: 7
+    truck: 1
+- Difference between Detections and GT:
+    car: 5
+    fire hydrant: 1
+    person: 2
+    traffic light: 7
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000204.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Van: 1
+  Number of Detections: 16
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 5
+    fire hydrant: 1
+    person: 2
+    traffic light: 7
+    truck: 1
+- Difference between Detections and GT:
+    bus: 1
+    car: 2
+    fire hydrant: 1
+    person: 1
+    traffic light: 2
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000205.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Van: 1
+  Number of Detections: 8
+  Number of GT Labels: 4
+  Objects Detected:
+    bus: 1
+    car: 2
+    fire hydrant: 1
+    person: 1
+    traffic light: 2
+    truck: 1
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000206.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Van: 1
+  Number of Detections: 8
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 3
+    fire hydrant: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 2
+    fire hydrant: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000207.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Van: 1
+  Number of Detections: 9
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    person: 2
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 3
+    fire hydrant: 2
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000208.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Van: 1
+  Number of Detections: 9
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 3
+    fire hydrant: 2
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 1
+    fire hydrant: 3
+    person: 1
+    traffic light: 2
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000209.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Van: 1
+  Number of Detections: 8
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 1
+    fire hydrant: 3
+    person: 1
+    traffic light: 2
+    truck: 1
+- Difference between Detections and GT:
+    car: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000210.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Van: 1
+  Number of Detections: 5
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 1
+    traffic light: 2
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000211.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Van: 1
+  Number of Detections: 4
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 1
+    traffic light: 2
+    truck: 1
+- Difference between Detections and GT:
+    car: 2
+    traffic light: 4
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000212.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Van: 1
+  Number of Detections: 7
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 2
+    traffic light: 4
+    truck: 1
+- Difference between Detections and GT:
+    car: 2
+    fire hydrant: 1
+    person: 1
+    traffic light: 4
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000213.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Van: 1
+  Number of Detections: 9
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    person: 1
+    traffic light: 4
+    truck: 1
+- Difference between Detections and GT:
+    car: 2
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000214.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Van: 1
+  Number of Detections: 6
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 2
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000215.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Van: 1
+  Number of Detections: 5
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 3
+    person: 1
+    traffic light: 2
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000216.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Van: 1
+  Number of Detections: 7
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 3
+    person: 1
+    traffic light: 2
+    truck: 1
+- Difference between Detections and GT:
+    car: 2
+    fire hydrant: 1
+    traffic light: 1
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000217.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Van: 1
+  Number of Detections: 5
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    traffic light: 1
+    truck: 1
+- Difference between Detections and GT:
+    car: 4
+    fire hydrant: 2
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000218.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Van: 1
+  Number of Detections: 10
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 4
+    fire hydrant: 2
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 2
+    fire hydrant: 1
+    stop sign: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000219.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Van: 1
+  Number of Detections: 8
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    stop sign: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000220.png
+  GT Classification: Freeway
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Van: 1
+  Number of Detections: 6
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 1
+    person: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    car: 3
+    person: 4
+    traffic light: 2
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000221.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 3
+    Van: 1
+  Number of Detections: 10
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 3
+    person: 4
+    traffic light: 2
+    truck: 1
+- Difference between Detections and GT:
+    car: 2
+    traffic light: 4
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0006/000222.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 3
+    Van: 1
+  Number of Detections: 8
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 2
+    traffic light: 4
+    truck: 2
+- Difference between Detections and GT:
+    car: 2
+    person: 1
+    stop sign: 1
+    traffic light: 2
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000223.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 3
+    Van: 1
+  Number of Detections: 7
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 2
+    person: 1
+    stop sign: 1
+    traffic light: 2
+    truck: 1
+- Difference between Detections and GT:
+    car: 2
+    person: 5
+    stop sign: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000224.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 3
+    Van: 1
+  Number of Detections: 12
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 2
+    person: 5
+    stop sign: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000225.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 3
+    Van: 1
+  Number of Detections: 4
+  Number of GT Labels: 4
+  Objects Detected:
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    person: 2
+    traffic light: 4
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000226.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 3
+    Van: 1
+  Number of Detections: 7
+  Number of GT Labels: 4
+  Objects Detected:
+    person: 2
+    traffic light: 4
+    truck: 1
+- Difference between Detections and GT:
+    car: 2
+    fire hydrant: 1
+    person: 7
+    traffic light: 4
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000227.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 3
+    Van: 1
+  Number of Detections: 15
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    person: 7
+    traffic light: 4
+    truck: 1
+- Difference between Detections and GT:
+    car: 2
+    fire hydrant: 1
+    person: 2
+    traffic light: 4
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000228.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 3
+    Van: 1
+  Number of Detections: 10
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    person: 2
+    traffic light: 4
+    truck: 1
+- Difference between Detections and GT:
+    car: 2
+    person: 1
+    traffic light: 1
+    train: 1
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000229.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 3
+    Van: 1
+  Number of Detections: 6
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 2
+    person: 1
+    traffic light: 1
+    train: 1
+    truck: 1
+- Difference between Detections and GT:
+    car: 2
+    fire hydrant: 1
+    person: 1
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000230.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 3
+    Van: 1
+  Number of Detections: 5
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 2
+    fire hydrant: 1
+    person: 1
+    truck: 1
+- Difference between Detections and GT:
+    car: 1
+    person: 2
+    traffic light: 2
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000231.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 3
+    Van: 1
+  Number of Detections: 6
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 1
+    person: 2
+    traffic light: 2
+    truck: 1
+- Difference between Detections and GT:
+    car: 1
+    traffic light: 1
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000232.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 3
+    Van: 1
+  Number of Detections: 3
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 1
+    traffic light: 1
+    truck: 1
+- Difference between Detections and GT:
+    bus: 1
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0006/000233.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 2
+    Van: 1
+  Number of Detections: 3
+  Number of GT Labels: 3
+  Objects Detected:
+    bus: 1
+    truck: 2
+- Difference between Detections and GT:
+    bus: 1
+    car: 1
+    traffic light: 7
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000234.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 2
+    Van: 1
+  Number of Detections: 10
+  Number of GT Labels: 3
+  Objects Detected:
+    bus: 1
+    car: 1
+    traffic light: 7
+    truck: 1
+- Difference between Detections and GT:
+    bus: 1
+    traffic light: 2
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000235.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Van: 1
+  Number of Detections: 4
+  Number of GT Labels: 2
+  Objects Detected:
+    bus: 1
+    traffic light: 2
+    truck: 1
+- Difference between Detections and GT:
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000236.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 2
+    Van: 1
+  Number of Detections: 4
+  Number of GT Labels: 3
+  Objects Detected:
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    bus: 1
+    traffic light: 5
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000237.png
+  GT Classification: Rural
+  GT Objects:
+    Van: 1
+  Number of Detections: 7
+  Number of GT Labels: 1
+  Objects Detected:
+    bus: 1
+    traffic light: 5
+    truck: 1
+- Difference between Detections and GT:
+    bus: 1
+    person: 2
+    skateboard: 1
+    traffic light: 4
+  Frame: kitti_sequential/images/training/image_02/0006/000238.png
+  GT Classification: Rural
+  GT Objects:
+    Van: 1
+  Number of Detections: 8
+  Number of GT Labels: 1
+  Objects Detected:
+    bus: 1
+    person: 2
+    skateboard: 1
+    traffic light: 4
+- Difference between Detections and GT:
+    bus: 1
+    person: 1
+    traffic light: 5
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000239.png
+  GT Classification: Rural
+  GT Objects:
+    Van: 1
+  Number of Detections: 8
+  Number of GT Labels: 1
+  Objects Detected:
+    bus: 1
+    person: 1
+    traffic light: 5
+    truck: 1
+- Difference between Detections and GT:
+    traffic light: 6
+  Frame: kitti_sequential/images/training/image_02/0006/000240.png
+  GT Classification: Rural
+  GT Objects: {}
+  Number of Detections: 6
+  Number of GT Labels: 0
+  Objects Detected:
+    traffic light: 6
+- Difference between Detections and GT:
+    car: 1
+    person: 1
+    traffic light: 7
+  Frame: kitti_sequential/images/training/image_02/0006/000241.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Truck: 1
+  Number of Detections: 9
+  Number of GT Labels: 2
+  Objects Detected:
+    car: 1
+    person: 1
+    traffic light: 7
+- Difference between Detections and GT:
+    car: 1
+    traffic light: 5
+  Frame: kitti_sequential/images/training/image_02/0006/000242.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Truck: 1
+  Number of Detections: 6
+  Number of GT Labels: 2
+  Objects Detected:
+    car: 1
+    traffic light: 5
+- Difference between Detections and GT:
+    traffic light: 4
+    train: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000243.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Truck: 1
+  Number of Detections: 5
+  Number of GT Labels: 2
+  Objects Detected:
+    traffic light: 4
+    train: 1
+- Difference between Detections and GT:
+    bus: 1
+    stop sign: 1
+    traffic light: 5
+  Frame: kitti_sequential/images/training/image_02/0006/000244.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Truck: 1
+  Number of Detections: 7
+  Number of GT Labels: 2
+  Objects Detected:
+    bus: 1
+    stop sign: 1
+    traffic light: 5
+- Difference between Detections and GT:
+    bus: 1
+    traffic light: 6
+  Frame: kitti_sequential/images/training/image_02/0006/000245.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Truck: 1
+  Number of Detections: 7
+  Number of GT Labels: 2
+  Objects Detected:
+    bus: 1
+    traffic light: 6
+- Difference between Detections and GT:
+    airplane: 1
+    bus: 1
+    stop sign: 1
+    traffic light: 6
+  Frame: kitti_sequential/images/training/image_02/0006/000246.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Truck: 1
+  Number of Detections: 9
+  Number of GT Labels: 2
+  Objects Detected:
+    airplane: 1
+    bus: 1
+    stop sign: 1
+    traffic light: 6
+- Difference between Detections and GT:
+    bus: 1
+    car: 1
+    stop sign: 1
+    traffic light: 5
+  Frame: kitti_sequential/images/training/image_02/0006/000247.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Truck: 1
+  Number of Detections: 8
+  Number of GT Labels: 2
+  Objects Detected:
+    bus: 1
+    car: 1
+    stop sign: 1
+    traffic light: 5
+- Difference between Detections and GT:
+    bus: 1
+    car: 3
+    person: 1
+    traffic light: 4
+  Frame: kitti_sequential/images/training/image_02/0006/000248.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Truck: 1
+  Number of Detections: 9
+  Number of GT Labels: 2
+  Objects Detected:
+    bus: 1
+    car: 3
+    person: 1
+    traffic light: 4
+- Difference between Detections and GT:
+    bus: 1
+    kite: 1
+    traffic light: 6
+  Frame: kitti_sequential/images/training/image_02/0006/000249.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Truck: 1
+  Number of Detections: 8
+  Number of GT Labels: 2
+  Objects Detected:
+    bus: 1
+    kite: 1
+    traffic light: 6
+- Difference between Detections and GT:
+    bus: 1
+    traffic light: 4
+  Frame: kitti_sequential/images/training/image_02/0006/000250.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Truck: 1
+  Number of Detections: 5
+  Number of GT Labels: 2
+  Objects Detected:
+    bus: 1
+    traffic light: 4
+- Difference between Detections and GT:
+    bus: 1
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000251.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Truck: 1
+  Number of Detections: 5
+  Number of GT Labels: 2
+  Objects Detected:
+    bus: 1
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    bus: 1
+    car: 4
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000252.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Truck: 1
+  Number of Detections: 9
+  Number of GT Labels: 2
+  Objects Detected:
+    bus: 1
+    car: 4
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    traffic light: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000253.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Truck: 1
+  Number of Detections: 4
+  Number of GT Labels: 2
+  Objects Detected:
+    traffic light: 3
+    truck: 1
+- Difference between Detections and GT:
+    airplane: 1
+    bus: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0006/000254.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Truck: 1
+  Number of Detections: 4
+  Number of GT Labels: 2
+  Objects Detected:
+    airplane: 1
+    bus: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    airplane: 1
+    bus: 1
+    car: 2
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0006/000255.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Truck: 1
+  Number of Detections: 6
+  Number of GT Labels: 2
+  Objects Detected:
+    airplane: 1
+    bus: 1
+    car: 2
+    traffic light: 2
+- Difference between Detections and GT:
+    airplane: 1
+    bus: 1
+    car: 2
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000256.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Truck: 1
+  Number of Detections: 7
+  Number of GT Labels: 2
+  Objects Detected:
+    airplane: 1
+    bus: 1
+    car: 2
+    traffic light: 3
+- Difference between Detections and GT:
+    airplane: 2
+    bus: 1
+    car: 3
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0006/000257.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Truck: 1
+  Number of Detections: 8
+  Number of GT Labels: 2
+  Objects Detected:
+    airplane: 2
+    bus: 1
+    car: 3
+    traffic light: 2
+- Difference between Detections and GT:
+    airplane: 1
+    bus: 1
+    traffic light: 1
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000258.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Truck: 1
+  Number of Detections: 4
+  Number of GT Labels: 2
+  Objects Detected:
+    airplane: 1
+    bus: 1
+    traffic light: 1
+    truck: 1
+- Difference between Detections and GT:
+    bus: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000259.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Truck: 1
+  Number of Detections: 1
+  Number of GT Labels: 2
+  Objects Detected:
+    bus: 1
+- Difference between Detections and GT:
+    bus: 1
+  Frame: kitti_sequential/images/training/image_02/0006/000260.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Truck: 1
+  Number of Detections: 1
+  Number of GT Labels: 2
+  Objects Detected:
+    bus: 1
+- Difference between Detections and GT:
+    bus: 1
+    car: 2
+  Frame: kitti_sequential/images/training/image_02/0006/000261.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Truck: 1
+  Number of Detections: 3
+  Number of GT Labels: 2
+  Objects Detected:
+    bus: 1
+    car: 2
+- Difference between Detections and GT:
+    bus: 1
+    car: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000262.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Truck: 1
+  Number of Detections: 4
+  Number of GT Labels: 2
+  Objects Detected:
+    bus: 1
+    car: 3
+- Difference between Detections and GT:
+    bus: 1
+    car: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000263.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Truck: 1
+  Number of Detections: 4
+  Number of GT Labels: 2
+  Objects Detected:
+    bus: 1
+    car: 3
+- Difference between Detections and GT:
+    bus: 1
+    car: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000264.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Truck: 1
+  Number of Detections: 4
+  Number of GT Labels: 2
+  Objects Detected:
+    bus: 1
+    car: 3
+- Difference between Detections and GT:
+    bus: 1
+    car: 2
+  Frame: kitti_sequential/images/training/image_02/0006/000265.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Truck: 1
+  Number of Detections: 3
+  Number of GT Labels: 2
+  Objects Detected:
+    bus: 1
+    car: 2
+- Difference between Detections and GT:
+    bus: 1
+    car: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000266.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Truck: 1
+  Number of Detections: 4
+  Number of GT Labels: 2
+  Objects Detected:
+    bus: 1
+    car: 3
+- Difference between Detections and GT:
+    bus: 2
+    car: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000267.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Truck: 1
+  Number of Detections: 5
+  Number of GT Labels: 2
+  Objects Detected:
+    bus: 2
+    car: 3
+- Difference between Detections and GT:
+    bus: 2
+    car: 6
+  Frame: kitti_sequential/images/training/image_02/0006/000268.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Truck: 1
+  Number of Detections: 8
+  Number of GT Labels: 2
+  Objects Detected:
+    bus: 2
+    car: 6
+- Difference between Detections and GT:
+    bus: 1
+    car: 3
+  Frame: kitti_sequential/images/training/image_02/0006/000269.png
+  GT Classification: Rural
+  GT Objects:
+    DontCare: 1
+    Truck: 1
+  Number of Detections: 4
+  Number of GT Labels: 2
+  Objects Detected:
+    bus: 1
+    car: 3
+Clean Frames:
+- kitti_sequential/images/training/image_02/0006/000000.png
+- kitti_sequential/images/training/image_02/0006/000001.png
+- kitti_sequential/images/training/image_02/0006/000002.png
+- kitti_sequential/images/training/image_02/0006/000003.png
+- kitti_sequential/images/training/image_02/0006/000004.png
+- kitti_sequential/images/training/image_02/0006/000005.png
+- kitti_sequential/images/training/image_02/0006/000006.png
+- kitti_sequential/images/training/image_02/0006/000007.png
+- kitti_sequential/images/training/image_02/0006/000008.png
+- kitti_sequential/images/training/image_02/0006/000009.png
+- kitti_sequential/images/training/image_02/0006/000010.png
+- kitti_sequential/images/training/image_02/0006/000011.png
+- kitti_sequential/images/training/image_02/0006/000012.png
+- kitti_sequential/images/training/image_02/0006/000013.png
+- kitti_sequential/images/training/image_02/0006/000014.png
+- kitti_sequential/images/training/image_02/0006/000015.png
+- kitti_sequential/images/training/image_02/0006/000016.png
+- kitti_sequential/images/training/image_02/0006/000017.png
+- kitti_sequential/images/training/image_02/0006/000018.png
+- kitti_sequential/images/training/image_02/0006/000019.png
+- kitti_sequential/images/training/image_02/0006/000020.png
+- kitti_sequential/images/training/image_02/0006/000021.png
+- kitti_sequential/images/training/image_02/0006/000022.png
+- kitti_sequential/images/training/image_02/0006/000023.png
+- kitti_sequential/images/training/image_02/0006/000024.png
+- kitti_sequential/images/training/image_02/0006/000025.png
+- kitti_sequential/images/training/image_02/0006/000026.png
+- kitti_sequential/images/training/image_02/0006/000027.png
+- kitti_sequential/images/training/image_02/0006/000028.png
+- kitti_sequential/images/training/image_02/0006/000029.png
+- kitti_sequential/images/training/image_02/0006/000030.png
+- kitti_sequential/images/training/image_02/0006/000031.png
+- kitti_sequential/images/training/image_02/0006/000032.png
+- kitti_sequential/images/training/image_02/0006/000033.png
+- kitti_sequential/images/training/image_02/0006/000034.png
+- kitti_sequential/images/training/image_02/0006/000035.png
+- kitti_sequential/images/training/image_02/0006/000036.png
+- kitti_sequential/images/training/image_02/0006/000037.png
+- kitti_sequential/images/training/image_02/0006/000038.png
+- kitti_sequential/images/training/image_02/0006/000039.png
+- kitti_sequential/images/training/image_02/0006/000040.png
+- kitti_sequential/images/training/image_02/0006/000041.png
+- kitti_sequential/images/training/image_02/0006/000042.png
+- kitti_sequential/images/training/image_02/0006/000043.png
+- kitti_sequential/images/training/image_02/0006/000044.png
+- kitti_sequential/images/training/image_02/0006/000045.png
+- kitti_sequential/images/training/image_02/0006/000046.png
+- kitti_sequential/images/training/image_02/0006/000047.png
+- kitti_sequential/images/training/image_02/0006/000048.png
+- kitti_sequential/images/training/image_02/0006/000049.png
+- kitti_sequential/images/training/image_02/0006/000050.png
+- kitti_sequential/images/training/image_02/0006/000051.png
+- kitti_sequential/images/training/image_02/0006/000052.png
+- kitti_sequential/images/training/image_02/0006/000053.png
+- kitti_sequential/images/training/image_02/0006/000054.png
+- kitti_sequential/images/training/image_02/0006/000055.png
+- kitti_sequential/images/training/image_02/0006/000056.png
+- kitti_sequential/images/training/image_02/0006/000057.png
+- kitti_sequential/images/training/image_02/0006/000058.png
+- kitti_sequential/images/training/image_02/0006/000059.png
+- kitti_sequential/images/training/image_02/0006/000060.png
+- kitti_sequential/images/training/image_02/0006/000061.png
+- kitti_sequential/images/training/image_02/0006/000062.png
+- kitti_sequential/images/training/image_02/0006/000063.png
+- kitti_sequential/images/training/image_02/0006/000064.png
+- kitti_sequential/images/training/image_02/0006/000065.png
+- kitti_sequential/images/training/image_02/0006/000066.png
+- kitti_sequential/images/training/image_02/0006/000067.png
+- kitti_sequential/images/training/image_02/0006/000068.png
+- kitti_sequential/images/training/image_02/0006/000069.png
+- kitti_sequential/images/training/image_02/0006/000070.png
+- kitti_sequential/images/training/image_02/0006/000071.png
+- kitti_sequential/images/training/image_02/0006/000072.png
+- kitti_sequential/images/training/image_02/0006/000073.png
+- kitti_sequential/images/training/image_02/0006/000074.png
+- kitti_sequential/images/training/image_02/0006/000075.png
+- kitti_sequential/images/training/image_02/0006/000076.png
+- kitti_sequential/images/training/image_02/0006/000077.png
+- kitti_sequential/images/training/image_02/0006/000078.png
+- kitti_sequential/images/training/image_02/0006/000079.png
+- kitti_sequential/images/training/image_02/0006/000080.png
+- kitti_sequential/images/training/image_02/0006/000081.png
+- kitti_sequential/images/training/image_02/0006/000082.png
+- kitti_sequential/images/training/image_02/0006/000083.png
+- kitti_sequential/images/training/image_02/0006/000084.png
+- kitti_sequential/images/training/image_02/0006/000085.png
+- kitti_sequential/images/training/image_02/0006/000086.png
+- kitti_sequential/images/training/image_02/0006/000087.png
+- kitti_sequential/images/training/image_02/0006/000088.png
+- kitti_sequential/images/training/image_02/0006/000089.png
+- kitti_sequential/images/training/image_02/0006/000090.png
+- kitti_sequential/images/training/image_02/0006/000091.png
+- kitti_sequential/images/training/image_02/0006/000092.png
+- kitti_sequential/images/training/image_02/0006/000093.png
+- kitti_sequential/images/training/image_02/0006/000094.png
+- kitti_sequential/images/training/image_02/0006/000095.png
+- kitti_sequential/images/training/image_02/0006/000096.png
+- kitti_sequential/images/training/image_02/0006/000097.png
+- kitti_sequential/images/training/image_02/0006/000098.png
+- kitti_sequential/images/training/image_02/0006/000099.png
+- kitti_sequential/images/training/image_02/0006/000100.png
+- kitti_sequential/images/training/image_02/0006/000101.png
+- kitti_sequential/images/training/image_02/0006/000102.png
+- kitti_sequential/images/training/image_02/0006/000103.png
+- kitti_sequential/images/training/image_02/0006/000104.png
+- kitti_sequential/images/training/image_02/0006/000105.png
+- kitti_sequential/images/training/image_02/0006/000106.png
+- kitti_sequential/images/training/image_02/0006/000107.png
+- kitti_sequential/images/training/image_02/0006/000108.png
+- kitti_sequential/images/training/image_02/0006/000109.png
+- kitti_sequential/images/training/image_02/0006/000110.png
+- kitti_sequential/images/training/image_02/0006/000111.png
+- kitti_sequential/images/training/image_02/0006/000112.png
+- kitti_sequential/images/training/image_02/0006/000113.png
+- kitti_sequential/images/training/image_02/0006/000114.png
+- kitti_sequential/images/training/image_02/0006/000115.png
+- kitti_sequential/images/training/image_02/0006/000116.png
+- kitti_sequential/images/training/image_02/0006/000117.png
+- kitti_sequential/images/training/image_02/0006/000118.png
+- kitti_sequential/images/training/image_02/0006/000119.png
+- kitti_sequential/images/training/image_02/0006/000120.png
+- kitti_sequential/images/training/image_02/0006/000121.png
+- kitti_sequential/images/training/image_02/0006/000122.png
+- kitti_sequential/images/training/image_02/0006/000123.png
+- kitti_sequential/images/training/image_02/0006/000124.png
+- kitti_sequential/images/training/image_02/0006/000125.png
+- kitti_sequential/images/training/image_02/0006/000126.png
+- kitti_sequential/images/training/image_02/0006/000127.png
+- kitti_sequential/images/training/image_02/0006/000128.png
+- kitti_sequential/images/training/image_02/0006/000129.png
+- kitti_sequential/images/training/image_02/0006/000130.png
+- kitti_sequential/images/training/image_02/0006/000131.png
+- kitti_sequential/images/training/image_02/0006/000132.png
+- kitti_sequential/images/training/image_02/0006/000133.png
+- kitti_sequential/images/training/image_02/0006/000134.png
+- kitti_sequential/images/training/image_02/0006/000135.png
+- kitti_sequential/images/training/image_02/0006/000136.png
+- kitti_sequential/images/training/image_02/0006/000137.png
+- kitti_sequential/images/training/image_02/0006/000138.png
+- kitti_sequential/images/training/image_02/0006/000139.png
+- kitti_sequential/images/training/image_02/0006/000140.png
+- kitti_sequential/images/training/image_02/0006/000141.png
+- kitti_sequential/images/training/image_02/0006/000142.png
+- kitti_sequential/images/training/image_02/0006/000143.png
+- kitti_sequential/images/training/image_02/0006/000144.png
+- kitti_sequential/images/training/image_02/0006/000145.png
+- kitti_sequential/images/training/image_02/0006/000146.png
+- kitti_sequential/images/training/image_02/0006/000147.png
+- kitti_sequential/images/training/image_02/0006/000148.png
+- kitti_sequential/images/training/image_02/0006/000149.png
+- kitti_sequential/images/training/image_02/0006/000150.png
+- kitti_sequential/images/training/image_02/0006/000151.png
+- kitti_sequential/images/training/image_02/0006/000152.png
+- kitti_sequential/images/training/image_02/0006/000153.png
+- kitti_sequential/images/training/image_02/0006/000154.png
+- kitti_sequential/images/training/image_02/0006/000155.png
+- kitti_sequential/images/training/image_02/0006/000156.png
+- kitti_sequential/images/training/image_02/0006/000157.png
+- kitti_sequential/images/training/image_02/0006/000158.png
+- kitti_sequential/images/training/image_02/0006/000159.png
+- kitti_sequential/images/training/image_02/0006/000160.png
+- kitti_sequential/images/training/image_02/0006/000161.png
+- kitti_sequential/images/training/image_02/0006/000162.png
+- kitti_sequential/images/training/image_02/0006/000163.png
+- kitti_sequential/images/training/image_02/0006/000164.png
+- kitti_sequential/images/training/image_02/0006/000165.png
+- kitti_sequential/images/training/image_02/0006/000166.png
+- kitti_sequential/images/training/image_02/0006/000167.png
+- kitti_sequential/images/training/image_02/0006/000168.png
+- kitti_sequential/images/training/image_02/0006/000169.png
+- kitti_sequential/images/training/image_02/0006/000170.png
+- kitti_sequential/images/training/image_02/0006/000171.png
+- kitti_sequential/images/training/image_02/0006/000172.png
+- kitti_sequential/images/training/image_02/0006/000173.png
+- kitti_sequential/images/training/image_02/0006/000174.png
+- kitti_sequential/images/training/image_02/0006/000175.png
+- kitti_sequential/images/training/image_02/0006/000176.png
+- kitti_sequential/images/training/image_02/0006/000177.png
+- kitti_sequential/images/training/image_02/0006/000178.png
+- kitti_sequential/images/training/image_02/0006/000179.png
+- kitti_sequential/images/training/image_02/0006/000180.png
+- kitti_sequential/images/training/image_02/0006/000181.png
+- kitti_sequential/images/training/image_02/0006/000182.png
+- kitti_sequential/images/training/image_02/0006/000183.png
+- kitti_sequential/images/training/image_02/0006/000184.png
+- kitti_sequential/images/training/image_02/0006/000185.png
+- kitti_sequential/images/training/image_02/0006/000186.png
+- kitti_sequential/images/training/image_02/0006/000187.png
+- kitti_sequential/images/training/image_02/0006/000188.png
+- kitti_sequential/images/training/image_02/0006/000189.png
+- kitti_sequential/images/training/image_02/0006/000190.png
+- kitti_sequential/images/training/image_02/0006/000191.png
+- kitti_sequential/images/training/image_02/0006/000192.png
+- kitti_sequential/images/training/image_02/0006/000193.png
+- kitti_sequential/images/training/image_02/0006/000194.png
+- kitti_sequential/images/training/image_02/0006/000195.png
+- kitti_sequential/images/training/image_02/0006/000196.png
+- kitti_sequential/images/training/image_02/0006/000197.png
+- kitti_sequential/images/training/image_02/0006/000198.png
+- kitti_sequential/images/training/image_02/0006/000199.png
+- kitti_sequential/images/training/image_02/0006/000200.png
+- kitti_sequential/images/training/image_02/0006/000201.png
+- kitti_sequential/images/training/image_02/0006/000202.png
+- kitti_sequential/images/training/image_02/0006/000203.png
+- kitti_sequential/images/training/image_02/0006/000204.png
+- kitti_sequential/images/training/image_02/0006/000205.png
+- kitti_sequential/images/training/image_02/0006/000206.png
+- kitti_sequential/images/training/image_02/0006/000207.png
+- kitti_sequential/images/training/image_02/0006/000208.png
+- kitti_sequential/images/training/image_02/0006/000209.png
+- kitti_sequential/images/training/image_02/0006/000210.png
+- kitti_sequential/images/training/image_02/0006/000211.png
+- kitti_sequential/images/training/image_02/0006/000212.png
+- kitti_sequential/images/training/image_02/0006/000213.png
+- kitti_sequential/images/training/image_02/0006/000214.png
+- kitti_sequential/images/training/image_02/0006/000215.png
+- kitti_sequential/images/training/image_02/0006/000216.png
+- kitti_sequential/images/training/image_02/0006/000217.png
+- kitti_sequential/images/training/image_02/0006/000218.png
+- kitti_sequential/images/training/image_02/0006/000219.png
+- kitti_sequential/images/training/image_02/0006/000220.png
+- kitti_sequential/images/training/image_02/0006/000221.png
+- kitti_sequential/images/training/image_02/0006/000222.png
+- kitti_sequential/images/training/image_02/0006/000223.png
+- kitti_sequential/images/training/image_02/0006/000224.png
+- kitti_sequential/images/training/image_02/0006/000225.png
+- kitti_sequential/images/training/image_02/0006/000226.png
+- kitti_sequential/images/training/image_02/0006/000227.png
+- kitti_sequential/images/training/image_02/0006/000228.png
+- kitti_sequential/images/training/image_02/0006/000229.png
+- kitti_sequential/images/training/image_02/0006/000230.png
+- kitti_sequential/images/training/image_02/0006/000231.png
+- kitti_sequential/images/training/image_02/0006/000232.png
+- kitti_sequential/images/training/image_02/0006/000233.png
+- kitti_sequential/images/training/image_02/0006/000234.png
+- kitti_sequential/images/training/image_02/0006/000235.png
+- kitti_sequential/images/training/image_02/0006/000236.png
+- kitti_sequential/images/training/image_02/0006/000237.png
+- kitti_sequential/images/training/image_02/0006/000238.png
+- kitti_sequential/images/training/image_02/0006/000239.png
+- kitti_sequential/images/training/image_02/0006/000240.png
+- kitti_sequential/images/training/image_02/0006/000241.png
+- kitti_sequential/images/training/image_02/0006/000242.png
+- kitti_sequential/images/training/image_02/0006/000243.png
+- kitti_sequential/images/training/image_02/0006/000244.png
+- kitti_sequential/images/training/image_02/0006/000245.png
+- kitti_sequential/images/training/image_02/0006/000246.png
+- kitti_sequential/images/training/image_02/0006/000247.png
+- kitti_sequential/images/training/image_02/0006/000248.png
+- kitti_sequential/images/training/image_02/0006/000249.png
+- kitti_sequential/images/training/image_02/0006/000250.png
+- kitti_sequential/images/training/image_02/0006/000251.png
+- kitti_sequential/images/training/image_02/0006/000252.png
+- kitti_sequential/images/training/image_02/0006/000253.png
+- kitti_sequential/images/training/image_02/0006/000254.png
+- kitti_sequential/images/training/image_02/0006/000255.png
+- kitti_sequential/images/training/image_02/0006/000256.png
+- kitti_sequential/images/training/image_02/0006/000257.png
+- kitti_sequential/images/training/image_02/0006/000258.png
+- kitti_sequential/images/training/image_02/0006/000259.png
+- kitti_sequential/images/training/image_02/0006/000260.png
+- kitti_sequential/images/training/image_02/0006/000261.png
+- kitti_sequential/images/training/image_02/0006/000262.png
+- kitti_sequential/images/training/image_02/0006/000263.png
+- kitti_sequential/images/training/image_02/0006/000264.png
+- kitti_sequential/images/training/image_02/0006/000265.png
+- kitti_sequential/images/training/image_02/0006/000266.png
+- kitti_sequential/images/training/image_02/0006/000267.png
+- kitti_sequential/images/training/image_02/0006/000268.png
+- kitti_sequential/images/training/image_02/0006/000269.png
+Duplicate Frame Ratio: 0.0
+Image Folder: kitti_sequential/images/training/image_02/0006
+Label Folder: kitti_sequential/labels/training/label_02/0006
+Laplacian Cutoffs:
+  '0.0': 366.1526277397269
+  '0.05': 451.9410507892335
+  '0.1': 468.15008142216413
+  '0.15000000000000002': 506.4483332353581
+  '0.2': 516.7554998671927
+  '0.25': 524.1045173155992
+  '0.30000000000000004': 527.1717214284831
+  '0.35000000000000003': 528.3732087962052
+  '0.4': 530.2195128052446
+  '0.45': 534.454084115535
+  '0.5': 537.3552706024814
+  '0.55': 541.4043136681793
+  '0.6000000000000001': 543.1515650535812
+  '0.65': 545.664333602076
+  '0.7000000000000001': 550.0230819029466
+  '0.75': 554.579257111198
+  '0.8': 559.4636995526697
+  '0.8500000000000001': 561.5337283921881
+  '0.9': 564.649467025081
+  '0.9500000000000001': 571.7126588377816
+Laplacian Threshold Remainders:
+  300 Threshold: 1.0
+  400 Threshold: 0.9703703703703703
+  500 Threshold: 0.8629629629629629
+  600 Threshold: 0.011111111111111112
+  700 Threshold: 0.0
+  800 Threshold: 0.0
+  900 Threshold: 0.0
+Maximum Laplacian Variance: 608.013374745362
+Median Frame Similarity: 0.9065479078010963
+Median Laplacian Variance: 537.3552706024814
+Minimum Laplacian Variance: 366.1526277397269
+Noisy Frame Ratio: 0.17037037037037037
+Removed Blurry Frame Count: 46
+Removed Blurry Frames:
+- kitti_sequential/images/training/image_02/0006/000039.png
+- kitti_sequential/images/training/image_02/0006/000040.png
+- kitti_sequential/images/training/image_02/0006/000059.png
+- kitti_sequential/images/training/image_02/0006/000060.png
+- kitti_sequential/images/training/image_02/0006/000061.png
+- kitti_sequential/images/training/image_02/0006/000073.png
+- kitti_sequential/images/training/image_02/0006/000074.png
+- kitti_sequential/images/training/image_02/0006/000198.png
+- kitti_sequential/images/training/image_02/0006/000199.png
+- kitti_sequential/images/training/image_02/0006/000200.png
+- kitti_sequential/images/training/image_02/0006/000201.png
+- kitti_sequential/images/training/image_02/0006/000202.png
+- kitti_sequential/images/training/image_02/0006/000203.png
+- kitti_sequential/images/training/image_02/0006/000204.png
+- kitti_sequential/images/training/image_02/0006/000205.png
+- kitti_sequential/images/training/image_02/0006/000206.png
+- kitti_sequential/images/training/image_02/0006/000207.png
+- kitti_sequential/images/training/image_02/0006/000208.png
+- kitti_sequential/images/training/image_02/0006/000209.png
+- kitti_sequential/images/training/image_02/0006/000210.png
+- kitti_sequential/images/training/image_02/0006/000211.png
+- kitti_sequential/images/training/image_02/0006/000212.png
+- kitti_sequential/images/training/image_02/0006/000213.png
+- kitti_sequential/images/training/image_02/0006/000214.png
+- kitti_sequential/images/training/image_02/0006/000215.png
+- kitti_sequential/images/training/image_02/0006/000216.png
+- kitti_sequential/images/training/image_02/0006/000250.png
+- kitti_sequential/images/training/image_02/0006/000251.png
+- kitti_sequential/images/training/image_02/0006/000252.png
+- kitti_sequential/images/training/image_02/0006/000253.png
+- kitti_sequential/images/training/image_02/0006/000254.png
+- kitti_sequential/images/training/image_02/0006/000255.png
+- kitti_sequential/images/training/image_02/0006/000256.png
+- kitti_sequential/images/training/image_02/0006/000257.png
+- kitti_sequential/images/training/image_02/0006/000258.png
+- kitti_sequential/images/training/image_02/0006/000259.png
+- kitti_sequential/images/training/image_02/0006/000260.png
+- kitti_sequential/images/training/image_02/0006/000261.png
+- kitti_sequential/images/training/image_02/0006/000262.png
+- kitti_sequential/images/training/image_02/0006/000263.png
+- kitti_sequential/images/training/image_02/0006/000264.png
+- kitti_sequential/images/training/image_02/0006/000265.png
+- kitti_sequential/images/training/image_02/0006/000266.png
+- kitti_sequential/images/training/image_02/0006/000267.png
+- kitti_sequential/images/training/image_02/0006/000268.png
+- kitti_sequential/images/training/image_02/0006/000269.png
+Removed Duplicate Frame Count: 0
+Removed Duplicate Frames: []
+SSIM Threshold Remainders:
+  0.2 Threshold: 0.9962962962962963
+  0.25 Threshold: 0.9666666666666667
+  0.3 Threshold: 0.9407407407407408
+  0.35 Threshold: 0.8629629629629629
+  0.39999999999999997 Threshold: 0.8074074074074075
+  0.44999999999999996 Threshold: 0.7851851851851852
+  0.49999999999999994 Threshold: 0.762962962962963
+  0.5499999999999999 Threshold: 0.725925925925926
+  0.5999999999999999 Threshold: 0.7074074074074074
+  0.6499999999999999 Threshold: 0.7
+  0.7 Threshold: 0.6888888888888889
+  0.7499999999999998 Threshold: 0.6851851851851852
+  0.7999999999999998 Threshold: 0.6851851851851852
+Sequence Classification:
+- !!python/tuple
+  - R
+  - 1
+Similarity Cutoffs:
+  '0.0': 0.2217733158499249
+  '0.05': 0.279640300261355
+  '0.1': 0.33291326664909393
+  '0.15000000000000002': 0.3593782233562656
+  '0.2': 0.4293638148422437
+  '0.25': 0.5273067587637967
+  '0.30000000000000004': 0.6591673205365798
+  '0.35000000000000003': 0.8405559699932403
+  '0.4': 0.876895863966142
+  '0.45': 0.8900714141524597
+  '0.5': 0.9065479078010963
+  '0.55': 0.9187577197095237
+  '0.6000000000000001': 0.9328250884712935
+  '0.65': 0.9433688519939061
+  '0.7000000000000001': 0.9552030698659333
+  '0.75': 0.9690935478753223
+  '0.8': 0.9773685440804182
+  '0.8500000000000001': 0.9802344286197623
+  '0.9': 0.9814177440432283
+  '0.9500000000000001': 0.9819595226062696
+Total Original Frames: 270

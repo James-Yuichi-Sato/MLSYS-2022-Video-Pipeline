@@ -1,0 +1,2790 @@
+Classification Information:
+- Difference between Detections and GT:
+    bicycle: 2
+    bus: 2
+    person: 8
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000000.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 3
+    Pedestrian: 6
+  Number of Detections: 13
+  Number of GT Labels: 10
+  Objects Detected:
+    bicycle: 2
+    bus: 2
+    person: 8
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 2
+    bus: 2
+    person: 7
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000001.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 3
+    Pedestrian: 6
+  Number of Detections: 12
+  Number of GT Labels: 10
+  Objects Detected:
+    bicycle: 2
+    bus: 2
+    person: 7
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 2
+    bus: 1
+    person: 3
+  Frame: kitti_sequential/images/training/image_02/0017/000002.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 3
+    Pedestrian: 6
+  Number of Detections: 6
+  Number of GT Labels: 10
+  Objects Detected:
+    bicycle: 2
+    bus: 1
+    person: 3
+- Difference between Detections and GT:
+    bicycle: 2
+    bus: 2
+    person: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000003.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 3
+    Pedestrian: 6
+  Number of Detections: 6
+  Number of GT Labels: 10
+  Objects Detected:
+    bicycle: 2
+    bus: 2
+    person: 2
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 2
+    person: 2
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000004.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 6
+  Number of Detections: 8
+  Number of GT Labels: 11
+  Objects Detected:
+    bicycle: 3
+    bus: 2
+    person: 2
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 2
+    person: 3
+  Frame: kitti_sequential/images/training/image_02/0017/000005.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 6
+  Number of Detections: 8
+  Number of GT Labels: 11
+  Objects Detected:
+    bicycle: 3
+    bus: 2
+    person: 3
+- Difference between Detections and GT:
+    bicycle: 1
+    bus: 1
+    person: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000006.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 6
+  Number of Detections: 6
+  Number of GT Labels: 11
+  Objects Detected:
+    bicycle: 1
+    bus: 1
+    person: 3
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 2
+    bus: 2
+    person: 2
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000007.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 6
+  Number of Detections: 8
+  Number of GT Labels: 11
+  Objects Detected:
+    bicycle: 2
+    bus: 2
+    person: 2
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 5
+    bus: 2
+    car: 1
+    person: 4
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000008.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 3
+    Pedestrian: 7
+  Number of Detections: 13
+  Number of GT Labels: 11
+  Objects Detected:
+    bicycle: 5
+    bus: 2
+    car: 1
+    person: 4
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    car: 1
+    motorcycle: 1
+    person: 4
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000009.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 3
+    Pedestrian: 7
+  Number of Detections: 11
+  Number of GT Labels: 11
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    car: 1
+    motorcycle: 1
+    person: 4
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 2
+    car: 1
+    person: 7
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000010.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 3
+    Pedestrian: 7
+  Number of Detections: 16
+  Number of GT Labels: 11
+  Objects Detected:
+    bicycle: 4
+    bus: 2
+    car: 1
+    person: 7
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 2
+    car: 1
+    person: 11
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000011.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 3
+    Pedestrian: 8
+  Number of Detections: 18
+  Number of GT Labels: 12
+  Objects Detected:
+    bicycle: 3
+    bus: 2
+    car: 1
+    person: 11
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 12
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000012.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 3
+    Pedestrian: 8
+  Number of Detections: 17
+  Number of GT Labels: 12
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 12
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 2
+    car: 1
+    person: 9
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000013.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 3
+    Pedestrian: 8
+  Number of Detections: 17
+  Number of GT Labels: 12
+  Objects Detected:
+    bicycle: 3
+    bus: 2
+    car: 1
+    person: 9
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 2
+    bus: 1
+    car: 1
+    person: 15
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000014.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 3
+    Pedestrian: 8
+  Number of Detections: 20
+  Number of GT Labels: 12
+  Objects Detected:
+    bicycle: 2
+    bus: 1
+    car: 1
+    person: 15
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 2
+    bus: 2
+    car: 1
+    person: 12
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000015.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 3
+    Pedestrian: 8
+  Number of Detections: 18
+  Number of GT Labels: 12
+  Objects Detected:
+    bicycle: 2
+    bus: 2
+    car: 1
+    person: 12
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 1
+    bus: 2
+    car: 1
+    person: 12
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000016.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 3
+    Pedestrian: 8
+  Number of Detections: 17
+  Number of GT Labels: 12
+  Objects Detected:
+    bicycle: 1
+    bus: 2
+    car: 1
+    person: 12
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 1
+    bus: 2
+    car: 1
+    person: 13
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000017.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 3
+    Pedestrian: 8
+  Number of Detections: 18
+  Number of GT Labels: 12
+  Objects Detected:
+    bicycle: 1
+    bus: 2
+    car: 1
+    person: 13
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 1
+    bus: 2
+    car: 1
+    motorcycle: 1
+    person: 16
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000018.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 9
+  Number of Detections: 23
+  Number of GT Labels: 14
+  Objects Detected:
+    bicycle: 1
+    bus: 2
+    car: 1
+    motorcycle: 1
+    person: 16
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    bus: 2
+    person: 14
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000019.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 9
+  Number of Detections: 18
+  Number of GT Labels: 14
+  Objects Detected:
+    bicycle: 1
+    bus: 2
+    person: 14
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 2
+    bus: 2
+    person: 12
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000020.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 9
+  Number of Detections: 18
+  Number of GT Labels: 14
+  Objects Detected:
+    bicycle: 2
+    bus: 2
+    person: 12
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 2
+    bus: 1
+    person: 15
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000021.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 9
+  Number of Detections: 19
+  Number of GT Labels: 14
+  Objects Detected:
+    bicycle: 2
+    bus: 1
+    person: 15
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 17
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000022.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 9
+  Number of Detections: 22
+  Number of GT Labels: 14
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 17
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 1
+    bus: 1
+    person: 15
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000023.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 9
+  Number of Detections: 18
+  Number of GT Labels: 14
+  Objects Detected:
+    bicycle: 1
+    bus: 1
+    person: 15
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 1
+    bus: 1
+    car: 1
+    person: 16
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000024.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 9
+  Number of Detections: 20
+  Number of GT Labels: 14
+  Objects Detected:
+    bicycle: 1
+    bus: 1
+    car: 1
+    person: 16
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 1
+    bus: 1
+    person: 15
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000025.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 9
+  Number of Detections: 18
+  Number of GT Labels: 14
+  Objects Detected:
+    bicycle: 1
+    bus: 1
+    person: 15
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 14
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000026.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 9
+  Number of Detections: 19
+  Number of GT Labels: 14
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 14
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 1
+    person: 12
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000027.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 9
+  Number of Detections: 18
+  Number of GT Labels: 14
+  Objects Detected:
+    bicycle: 4
+    bus: 1
+    person: 12
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 10
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000028.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 9
+  Number of Detections: 15
+  Number of GT Labels: 14
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 10
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 14
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000029.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 9
+  Number of Detections: 19
+  Number of GT Labels: 14
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 14
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 13
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000030.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 9
+  Number of Detections: 19
+  Number of GT Labels: 14
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 13
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 2
+    bus: 1
+    person: 8
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000031.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 9
+  Number of Detections: 13
+  Number of GT Labels: 14
+  Objects Detected:
+    bicycle: 2
+    bus: 1
+    person: 8
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    bus: 1
+    person: 11
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000032.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 9
+  Number of Detections: 15
+  Number of GT Labels: 14
+  Objects Detected:
+    bicycle: 1
+    bus: 1
+    person: 11
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 2
+    bus: 1
+    person: 11
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000033.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 2
+    DontCare: 4
+    Pedestrian: 9
+  Number of Detections: 16
+  Number of GT Labels: 15
+  Objects Detected:
+    bicycle: 2
+    bus: 1
+    person: 11
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 2
+    bus: 1
+    person: 10
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000034.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 2
+    DontCare: 4
+    Pedestrian: 9
+  Number of Detections: 15
+  Number of GT Labels: 15
+  Objects Detected:
+    bicycle: 2
+    bus: 1
+    person: 10
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 2
+    bus: 1
+    person: 7
+    skis: 1
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000035.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 2
+    DontCare: 4
+    Pedestrian: 9
+  Number of Detections: 13
+  Number of GT Labels: 15
+  Objects Detected:
+    bicycle: 2
+    bus: 1
+    person: 7
+    skis: 1
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 8
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000036.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 2
+    DontCare: 4
+    Pedestrian: 9
+  Number of Detections: 14
+  Number of GT Labels: 15
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 8
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 8
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000037.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 2
+    DontCare: 4
+    Pedestrian: 9
+  Number of Detections: 14
+  Number of GT Labels: 15
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 8
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 12
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000038.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 2
+    DontCare: 4
+    Pedestrian: 9
+  Number of Detections: 18
+  Number of GT Labels: 15
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 12
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 13
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000039.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 2
+    DontCare: 4
+    Pedestrian: 9
+  Number of Detections: 19
+  Number of GT Labels: 15
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 13
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 1
+    person: 15
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000040.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 2
+    DontCare: 3
+    Pedestrian: 9
+  Number of Detections: 22
+  Number of GT Labels: 14
+  Objects Detected:
+    bicycle: 4
+    bus: 1
+    person: 15
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 2
+    bus: 1
+    handbag: 1
+    person: 13
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000041.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 3
+    Pedestrian: 7
+  Number of Detections: 19
+  Number of GT Labels: 11
+  Objects Detected:
+    bicycle: 2
+    bus: 1
+    handbag: 1
+    person: 13
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 14
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000042.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 3
+    Pedestrian: 7
+  Number of Detections: 20
+  Number of GT Labels: 11
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 14
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 13
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000043.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 3
+    Pedestrian: 7
+  Number of Detections: 18
+  Number of GT Labels: 11
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 13
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 1
+    person: 9
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000044.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 3
+    Pedestrian: 7
+  Number of Detections: 16
+  Number of GT Labels: 11
+  Objects Detected:
+    bicycle: 4
+    bus: 1
+    person: 9
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 2
+    bus: 1
+    person: 10
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000045.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 3
+    Pedestrian: 7
+  Number of Detections: 15
+  Number of GT Labels: 11
+  Objects Detected:
+    bicycle: 2
+    bus: 1
+    person: 10
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 2
+    bus: 1
+    person: 11
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000046.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 3
+    Pedestrian: 7
+  Number of Detections: 16
+  Number of GT Labels: 11
+  Objects Detected:
+    bicycle: 2
+    bus: 1
+    person: 11
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 2
+    bus: 1
+    person: 11
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000047.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 7
+  Number of Detections: 15
+  Number of GT Labels: 12
+  Objects Detected:
+    bicycle: 2
+    bus: 1
+    person: 11
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 1
+    bus: 1
+    person: 10
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000048.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 7
+  Number of Detections: 14
+  Number of GT Labels: 12
+  Objects Detected:
+    bicycle: 1
+    bus: 1
+    person: 10
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    bus: 1
+    person: 13
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000049.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 7
+  Number of Detections: 17
+  Number of GT Labels: 12
+  Objects Detected:
+    bicycle: 1
+    bus: 1
+    person: 13
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 2
+    bus: 1
+    person: 15
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000050.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 7
+  Number of Detections: 19
+  Number of GT Labels: 12
+  Objects Detected:
+    bicycle: 2
+    bus: 1
+    person: 15
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 13
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000051.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 7
+  Number of Detections: 18
+  Number of GT Labels: 12
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 13
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 1
+    person: 17
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000052.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 7
+  Number of Detections: 23
+  Number of GT Labels: 12
+  Objects Detected:
+    bicycle: 4
+    bus: 1
+    person: 17
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 2
+    person: 19
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000053.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 7
+  Number of Detections: 25
+  Number of GT Labels: 12
+  Objects Detected:
+    bicycle: 3
+    bus: 2
+    person: 19
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 2
+    person: 15
+  Frame: kitti_sequential/images/training/image_02/0017/000054.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 7
+  Number of Detections: 17
+  Number of GT Labels: 12
+  Objects Detected:
+    bicycle: 2
+    person: 15
+- Difference between Detections and GT:
+    bicycle: 2
+    bus: 2
+    person: 15
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000055.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 7
+  Number of Detections: 20
+  Number of GT Labels: 12
+  Objects Detected:
+    bicycle: 2
+    bus: 2
+    person: 15
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 12
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000056.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 5
+    Pedestrian: 7
+  Number of Detections: 17
+  Number of GT Labels: 13
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 12
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 2
+    bus: 1
+    person: 12
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000057.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 5
+    Pedestrian: 7
+  Number of Detections: 16
+  Number of GT Labels: 13
+  Objects Detected:
+    bicycle: 2
+    bus: 1
+    person: 12
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 2
+    bus: 1
+    person: 16
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000058.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 5
+    Pedestrian: 7
+  Number of Detections: 21
+  Number of GT Labels: 13
+  Objects Detected:
+    bicycle: 2
+    bus: 1
+    person: 16
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 17
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000059.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 5
+    Pedestrian: 7
+  Number of Detections: 23
+  Number of GT Labels: 13
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 17
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 15
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000060.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 5
+    Pedestrian: 7
+  Number of Detections: 21
+  Number of GT Labels: 13
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 15
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 11
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000061.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 5
+    Pedestrian: 7
+  Number of Detections: 16
+  Number of GT Labels: 13
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 11
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 1
+    person: 9
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000062.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 5
+    Pedestrian: 6
+  Number of Detections: 15
+  Number of GT Labels: 12
+  Objects Detected:
+    bicycle: 4
+    bus: 1
+    person: 9
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 11
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000063.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 5
+    Pedestrian: 6
+  Number of Detections: 16
+  Number of GT Labels: 12
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 11
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 1
+    person: 9
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000064.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 5
+    Pedestrian: 5
+  Number of Detections: 16
+  Number of GT Labels: 11
+  Objects Detected:
+    bicycle: 4
+    bus: 1
+    person: 9
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 11
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000065.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 5
+    Pedestrian: 5
+  Number of Detections: 17
+  Number of GT Labels: 11
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 11
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 11
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000066.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 5
+    Pedestrian: 5
+  Number of Detections: 17
+  Number of GT Labels: 11
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 11
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 13
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000067.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 4
+  Number of Detections: 18
+  Number of GT Labels: 9
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 13
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 2
+    person: 9
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000068.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 4
+  Number of Detections: 15
+  Number of GT Labels: 9
+  Objects Detected:
+    bicycle: 3
+    bus: 2
+    person: 9
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 2
+    person: 10
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000069.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 4
+  Number of Detections: 16
+  Number of GT Labels: 9
+  Objects Detected:
+    bicycle: 3
+    bus: 2
+    person: 10
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 2
+    person: 8
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000070.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 4
+  Number of Detections: 14
+  Number of GT Labels: 9
+  Objects Detected:
+    bicycle: 3
+    bus: 2
+    person: 8
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 2
+    person: 11
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000071.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 5
+    Pedestrian: 4
+  Number of Detections: 17
+  Number of GT Labels: 10
+  Objects Detected:
+    bicycle: 3
+    bus: 2
+    person: 11
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 9
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000072.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 5
+    Pedestrian: 4
+  Number of Detections: 14
+  Number of GT Labels: 10
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 9
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 2
+    person: 11
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000073.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 5
+    Pedestrian: 4
+  Number of Detections: 17
+  Number of GT Labels: 10
+  Objects Detected:
+    bicycle: 3
+    bus: 2
+    person: 11
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 2
+    person: 11
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000074.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 5
+    Pedestrian: 4
+  Number of Detections: 17
+  Number of GT Labels: 10
+  Objects Detected:
+    bicycle: 3
+    bus: 2
+    person: 11
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 2
+    person: 12
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000075.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 5
+    Pedestrian: 4
+  Number of Detections: 18
+  Number of GT Labels: 10
+  Objects Detected:
+    bicycle: 3
+    bus: 2
+    person: 12
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 1
+    person: 9
+  Frame: kitti_sequential/images/training/image_02/0017/000076.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 5
+    Pedestrian: 4
+  Number of Detections: 14
+  Number of GT Labels: 10
+  Objects Detected:
+    bicycle: 4
+    bus: 1
+    person: 9
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 2
+    person: 12
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000077.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 5
+    Pedestrian: 4
+  Number of Detections: 18
+  Number of GT Labels: 10
+  Objects Detected:
+    bicycle: 3
+    bus: 2
+    person: 12
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 2
+    person: 11
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000078.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 5
+    Pedestrian: 4
+  Number of Detections: 17
+  Number of GT Labels: 10
+  Objects Detected:
+    bicycle: 3
+    bus: 2
+    person: 11
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 11
+  Frame: kitti_sequential/images/training/image_02/0017/000079.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 5
+    Pedestrian: 4
+  Number of Detections: 15
+  Number of GT Labels: 10
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 11
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 8
+  Frame: kitti_sequential/images/training/image_02/0017/000080.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 5
+    Pedestrian: 4
+  Number of Detections: 12
+  Number of GT Labels: 10
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 8
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 2
+    person: 9
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000081.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 5
+    Pedestrian: 4
+  Number of Detections: 15
+  Number of GT Labels: 10
+  Objects Detected:
+    bicycle: 3
+    bus: 2
+    person: 9
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 2
+    person: 8
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000082.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 5
+    Pedestrian: 4
+  Number of Detections: 14
+  Number of GT Labels: 10
+  Objects Detected:
+    bicycle: 3
+    bus: 2
+    person: 8
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 12
+  Frame: kitti_sequential/images/training/image_02/0017/000083.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 4
+  Number of Detections: 16
+  Number of GT Labels: 9
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 12
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 1
+    person: 11
+  Frame: kitti_sequential/images/training/image_02/0017/000084.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 4
+  Number of Detections: 16
+  Number of GT Labels: 9
+  Objects Detected:
+    bicycle: 4
+    bus: 1
+    person: 11
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 10
+  Frame: kitti_sequential/images/training/image_02/0017/000085.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 4
+  Number of Detections: 14
+  Number of GT Labels: 9
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 10
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 2
+    person: 10
+  Frame: kitti_sequential/images/training/image_02/0017/000086.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 4
+    Pedestrian: 4
+  Number of Detections: 15
+  Number of GT Labels: 9
+  Objects Detected:
+    bicycle: 3
+    bus: 2
+    person: 10
+- Difference between Detections and GT:
+    bicycle: 2
+    bus: 2
+    person: 12
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000087.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 5
+    Pedestrian: 4
+  Number of Detections: 17
+  Number of GT Labels: 10
+  Objects Detected:
+    bicycle: 2
+    bus: 2
+    person: 12
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 1
+    person: 9
+  Frame: kitti_sequential/images/training/image_02/0017/000088.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 5
+    Pedestrian: 4
+  Number of Detections: 14
+  Number of GT Labels: 10
+  Objects Detected:
+    bicycle: 4
+    bus: 1
+    person: 9
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 1
+    person: 9
+  Frame: kitti_sequential/images/training/image_02/0017/000089.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 5
+    Pedestrian: 4
+  Number of Detections: 14
+  Number of GT Labels: 10
+  Objects Detected:
+    bicycle: 4
+    bus: 1
+    person: 9
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 2
+    person: 12
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000090.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 5
+    Pedestrian: 4
+  Number of Detections: 19
+  Number of GT Labels: 10
+  Objects Detected:
+    bicycle: 4
+    bus: 2
+    person: 12
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 2
+    person: 12
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000091.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 6
+    Pedestrian: 4
+  Number of Detections: 18
+  Number of GT Labels: 11
+  Objects Detected:
+    bicycle: 3
+    bus: 2
+    person: 12
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 1
+    person: 13
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000092.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    Cyclist: 1
+    DontCare: 6
+    Pedestrian: 4
+  Number of Detections: 19
+  Number of GT Labels: 11
+  Objects Detected:
+    bicycle: 4
+    bus: 1
+    person: 13
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 15
+  Frame: kitti_sequential/images/training/image_02/0017/000093.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 7
+    Pedestrian: 4
+  Number of Detections: 19
+  Number of GT Labels: 11
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 15
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 2
+    person: 13
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000094.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 7
+    Pedestrian: 4
+  Number of Detections: 20
+  Number of GT Labels: 11
+  Objects Detected:
+    bicycle: 4
+    bus: 2
+    person: 13
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 1
+    person: 13
+    skis: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000095.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 5
+    Pedestrian: 4
+  Number of Detections: 19
+  Number of GT Labels: 9
+  Objects Detected:
+    bicycle: 4
+    bus: 1
+    person: 13
+    skis: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 12
+  Frame: kitti_sequential/images/training/image_02/0017/000096.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 5
+    Pedestrian: 4
+  Number of Detections: 16
+  Number of GT Labels: 9
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 12
+- Difference between Detections and GT:
+    bicycle: 2
+    bus: 2
+    person: 10
+    skis: 1
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000097.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 5
+    Pedestrian: 4
+  Number of Detections: 16
+  Number of GT Labels: 9
+  Objects Detected:
+    bicycle: 2
+    bus: 2
+    person: 10
+    skis: 1
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 2
+    person: 10
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000098.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 5
+    Pedestrian: 4
+  Number of Detections: 16
+  Number of GT Labels: 9
+  Objects Detected:
+    bicycle: 3
+    bus: 2
+    person: 10
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 13
+  Frame: kitti_sequential/images/training/image_02/0017/000099.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 4
+    Pedestrian: 4
+  Number of Detections: 17
+  Number of GT Labels: 8
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 13
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 1
+    person: 12
+  Frame: kitti_sequential/images/training/image_02/0017/000100.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 4
+    Pedestrian: 4
+  Number of Detections: 17
+  Number of GT Labels: 8
+  Objects Detected:
+    bicycle: 4
+    bus: 1
+    person: 12
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 1
+    person: 9
+  Frame: kitti_sequential/images/training/image_02/0017/000101.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 4
+    Pedestrian: 4
+  Number of Detections: 14
+  Number of GT Labels: 8
+  Objects Detected:
+    bicycle: 4
+    bus: 1
+    person: 9
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 10
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000102.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 4
+    Pedestrian: 4
+  Number of Detections: 15
+  Number of GT Labels: 8
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 10
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 1
+    person: 9
+  Frame: kitti_sequential/images/training/image_02/0017/000103.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 4
+    Pedestrian: 4
+  Number of Detections: 14
+  Number of GT Labels: 8
+  Objects Detected:
+    bicycle: 4
+    bus: 1
+    person: 9
+- Difference between Detections and GT:
+    bicycle: 1
+    bus: 2
+    person: 11
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000104.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 4
+    Pedestrian: 4
+  Number of Detections: 15
+  Number of GT Labels: 8
+  Objects Detected:
+    bicycle: 1
+    bus: 2
+    person: 11
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 2
+    bus: 2
+    person: 10
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000105.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 4
+    Pedestrian: 4
+  Number of Detections: 15
+  Number of GT Labels: 8
+  Objects Detected:
+    bicycle: 2
+    bus: 2
+    person: 10
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 2
+    bus: 1
+    person: 9
+  Frame: kitti_sequential/images/training/image_02/0017/000106.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 5
+    Pedestrian: 4
+  Number of Detections: 12
+  Number of GT Labels: 9
+  Objects Detected:
+    bicycle: 2
+    bus: 1
+    person: 9
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 2
+    person: 10
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000107.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 5
+    Pedestrian: 4
+  Number of Detections: 16
+  Number of GT Labels: 9
+  Objects Detected:
+    bicycle: 3
+    bus: 2
+    person: 10
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 2
+    person: 10
+    skis: 1
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000108.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 5
+    Pedestrian: 4
+  Number of Detections: 17
+  Number of GT Labels: 9
+  Objects Detected:
+    bicycle: 3
+    bus: 2
+    person: 10
+    skis: 1
+    truck: 1
+- Difference between Detections and GT:
+    bench: 1
+    bicycle: 2
+    person: 8
+    skis: 1
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000109.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 5
+    Pedestrian: 4
+  Number of Detections: 13
+  Number of GT Labels: 9
+  Objects Detected:
+    bench: 1
+    bicycle: 2
+    person: 8
+    skis: 1
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 2
+    person: 11
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000110.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 5
+    Pedestrian: 4
+  Number of Detections: 18
+  Number of GT Labels: 9
+  Objects Detected:
+    bicycle: 4
+    bus: 2
+    person: 11
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 1
+    person: 10
+  Frame: kitti_sequential/images/training/image_02/0017/000111.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 5
+    Pedestrian: 4
+  Number of Detections: 15
+  Number of GT Labels: 9
+  Objects Detected:
+    bicycle: 4
+    bus: 1
+    person: 10
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 2
+    person: 11
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000112.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 5
+    Pedestrian: 3
+  Number of Detections: 18
+  Number of GT Labels: 8
+  Objects Detected:
+    bicycle: 4
+    bus: 2
+    person: 11
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 10
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000113.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 5
+    Pedestrian: 3
+  Number of Detections: 15
+  Number of GT Labels: 8
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 10
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 2
+    person: 6
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000114.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 5
+    Pedestrian: 3
+  Number of Detections: 12
+  Number of GT Labels: 8
+  Objects Detected:
+    bicycle: 3
+    bus: 2
+    person: 6
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 2
+    motorcycle: 1
+    person: 6
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000115.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 5
+    Pedestrian: 3
+  Number of Detections: 13
+  Number of GT Labels: 8
+  Objects Detected:
+    bicycle: 3
+    bus: 2
+    motorcycle: 1
+    person: 6
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 6
+  Frame: kitti_sequential/images/training/image_02/0017/000116.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 5
+    Pedestrian: 3
+  Number of Detections: 10
+  Number of GT Labels: 8
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 6
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 8
+  Frame: kitti_sequential/images/training/image_02/0017/000117.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 5
+    Pedestrian: 3
+  Number of Detections: 12
+  Number of GT Labels: 8
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 8
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 1
+    person: 6
+  Frame: kitti_sequential/images/training/image_02/0017/000118.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 5
+    Pedestrian: 3
+  Number of Detections: 11
+  Number of GT Labels: 8
+  Objects Detected:
+    bicycle: 4
+    bus: 1
+    person: 6
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    handbag: 2
+    person: 7
+  Frame: kitti_sequential/images/training/image_02/0017/000119.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 5
+    Pedestrian: 3
+  Number of Detections: 13
+  Number of GT Labels: 8
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    handbag: 2
+    person: 7
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 2
+    handbag: 2
+    person: 8
+  Frame: kitti_sequential/images/training/image_02/0017/000120.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 5
+    Pedestrian: 3
+  Number of Detections: 16
+  Number of GT Labels: 8
+  Objects Detected:
+    bicycle: 4
+    bus: 2
+    handbag: 2
+    person: 8
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 2
+    person: 7
+  Frame: kitti_sequential/images/training/image_02/0017/000121.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 5
+    Pedestrian: 3
+  Number of Detections: 13
+  Number of GT Labels: 8
+  Objects Detected:
+    bicycle: 4
+    bus: 2
+    person: 7
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 2
+    person: 5
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000122.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 5
+    Pedestrian: 3
+  Number of Detections: 11
+  Number of GT Labels: 8
+  Objects Detected:
+    bicycle: 3
+    bus: 2
+    person: 5
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 2
+    person: 6
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000123.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 5
+    Pedestrian: 3
+  Number of Detections: 13
+  Number of GT Labels: 8
+  Objects Detected:
+    bicycle: 4
+    bus: 2
+    person: 6
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 1
+    person: 5
+  Frame: kitti_sequential/images/training/image_02/0017/000124.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 5
+    Pedestrian: 3
+  Number of Detections: 10
+  Number of GT Labels: 8
+  Objects Detected:
+    bicycle: 4
+    bus: 1
+    person: 5
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000125.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 5
+    Pedestrian: 3
+  Number of Detections: 8
+  Number of GT Labels: 8
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 3
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 2
+    person: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000126.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 5
+    Pedestrian: 3
+  Number of Detections: 10
+  Number of GT Labels: 8
+  Objects Detected:
+    bicycle: 4
+    bus: 2
+    person: 3
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 4
+    person: 4
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000127.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 5
+    Pedestrian: 3
+  Number of Detections: 9
+  Number of GT Labels: 8
+  Objects Detected:
+    bicycle: 4
+    person: 4
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 2
+    person: 4
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000128.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 5
+    Pedestrian: 3
+  Number of Detections: 10
+  Number of GT Labels: 8
+  Objects Detected:
+    bicycle: 3
+    bus: 2
+    person: 4
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 1
+    handbag: 2
+    person: 4
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000129.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 5
+    Pedestrian: 3
+  Number of Detections: 12
+  Number of GT Labels: 8
+  Objects Detected:
+    bicycle: 4
+    bus: 1
+    handbag: 2
+    person: 4
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 2
+    person: 4
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000130.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 4
+    Pedestrian: 3
+  Number of Detections: 11
+  Number of GT Labels: 7
+  Objects Detected:
+    bicycle: 4
+    bus: 2
+    person: 4
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 2
+    person: 7
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000131.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 4
+    Pedestrian: 3
+  Number of Detections: 14
+  Number of GT Labels: 7
+  Objects Detected:
+    bicycle: 4
+    bus: 2
+    person: 7
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 2
+    person: 6
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000132.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 4
+    Pedestrian: 3
+  Number of Detections: 14
+  Number of GT Labels: 7
+  Objects Detected:
+    bicycle: 4
+    bus: 2
+    person: 6
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    handbag: 1
+    person: 6
+    suitcase: 1
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000133.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 4
+    Pedestrian: 3
+  Number of Detections: 14
+  Number of GT Labels: 7
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    handbag: 1
+    person: 6
+    suitcase: 1
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 5
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000134.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 4
+    Pedestrian: 3
+  Number of Detections: 11
+  Number of GT Labels: 7
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 5
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 2
+    handbag: 2
+    person: 5
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000135.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 4
+    Pedestrian: 3
+  Number of Detections: 14
+  Number of GT Labels: 7
+  Objects Detected:
+    bicycle: 4
+    bus: 2
+    handbag: 2
+    person: 5
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 2
+    handbag: 1
+    person: 4
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000136.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 4
+    Pedestrian: 3
+  Number of Detections: 12
+  Number of GT Labels: 7
+  Objects Detected:
+    bicycle: 4
+    bus: 2
+    handbag: 1
+    person: 4
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    handbag: 2
+    person: 4
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000137.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 3
+    Pedestrian: 3
+  Number of Detections: 11
+  Number of GT Labels: 6
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    handbag: 2
+    person: 4
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 2
+    person: 4
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000138.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 3
+    Pedestrian: 3
+  Number of Detections: 12
+  Number of GT Labels: 6
+  Objects Detected:
+    bicycle: 4
+    bus: 2
+    person: 4
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 1
+    chair: 1
+    person: 4
+    skateboard: 1
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000139.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 3
+    Pedestrian: 3
+  Number of Detections: 12
+  Number of GT Labels: 6
+  Objects Detected:
+    bicycle: 4
+    bus: 1
+    chair: 1
+    person: 4
+    skateboard: 1
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 2
+    person: 3
+    truck: 1
+  Frame: kitti_sequential/images/training/image_02/0017/000140.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 3
+    Pedestrian: 3
+  Number of Detections: 10
+  Number of GT Labels: 6
+  Objects Detected:
+    bicycle: 4
+    bus: 2
+    person: 3
+    truck: 1
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 1
+    person: 5
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000141.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 3
+    Pedestrian: 3
+  Number of Detections: 12
+  Number of GT Labels: 6
+  Objects Detected:
+    bicycle: 4
+    bus: 1
+    person: 5
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 2
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000142.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 3
+    Pedestrian: 2
+  Number of Detections: 8
+  Number of GT Labels: 5
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 2
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 3
+    bus: 1
+    person: 2
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000143.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 3
+    Pedestrian: 2
+  Number of Detections: 8
+  Number of GT Labels: 5
+  Objects Detected:
+    bicycle: 3
+    bus: 1
+    person: 2
+    truck: 2
+- Difference between Detections and GT:
+    bicycle: 4
+    bus: 1
+    car: 1
+    person: 3
+    truck: 2
+  Frame: kitti_sequential/images/training/image_02/0017/000144.png
+  GT Classification: Pedestrian Traffic
+  GT Objects:
+    DontCare: 3
+    Pedestrian: 2
+  Number of Detections: 11
+  Number of GT Labels: 5
+  Objects Detected:
+    bicycle: 4
+    bus: 1
+    car: 1
+    person: 3
+    truck: 2
+Clean Frames:
+- kitti_sequential/images/training/image_02/0017/000000.png
+- kitti_sequential/images/training/image_02/0017/000001.png
+- kitti_sequential/images/training/image_02/0017/000002.png
+- kitti_sequential/images/training/image_02/0017/000003.png
+- kitti_sequential/images/training/image_02/0017/000004.png
+- kitti_sequential/images/training/image_02/0017/000005.png
+- kitti_sequential/images/training/image_02/0017/000006.png
+- kitti_sequential/images/training/image_02/0017/000007.png
+- kitti_sequential/images/training/image_02/0017/000008.png
+- kitti_sequential/images/training/image_02/0017/000009.png
+- kitti_sequential/images/training/image_02/0017/000010.png
+- kitti_sequential/images/training/image_02/0017/000011.png
+- kitti_sequential/images/training/image_02/0017/000012.png
+- kitti_sequential/images/training/image_02/0017/000013.png
+- kitti_sequential/images/training/image_02/0017/000014.png
+- kitti_sequential/images/training/image_02/0017/000015.png
+- kitti_sequential/images/training/image_02/0017/000016.png
+- kitti_sequential/images/training/image_02/0017/000017.png
+- kitti_sequential/images/training/image_02/0017/000018.png
+- kitti_sequential/images/training/image_02/0017/000019.png
+- kitti_sequential/images/training/image_02/0017/000020.png
+- kitti_sequential/images/training/image_02/0017/000021.png
+- kitti_sequential/images/training/image_02/0017/000022.png
+- kitti_sequential/images/training/image_02/0017/000023.png
+- kitti_sequential/images/training/image_02/0017/000024.png
+- kitti_sequential/images/training/image_02/0017/000025.png
+- kitti_sequential/images/training/image_02/0017/000026.png
+- kitti_sequential/images/training/image_02/0017/000027.png
+- kitti_sequential/images/training/image_02/0017/000028.png
+- kitti_sequential/images/training/image_02/0017/000029.png
+- kitti_sequential/images/training/image_02/0017/000030.png
+- kitti_sequential/images/training/image_02/0017/000031.png
+- kitti_sequential/images/training/image_02/0017/000032.png
+- kitti_sequential/images/training/image_02/0017/000033.png
+- kitti_sequential/images/training/image_02/0017/000034.png
+- kitti_sequential/images/training/image_02/0017/000035.png
+- kitti_sequential/images/training/image_02/0017/000036.png
+- kitti_sequential/images/training/image_02/0017/000037.png
+- kitti_sequential/images/training/image_02/0017/000038.png
+- kitti_sequential/images/training/image_02/0017/000039.png
+- kitti_sequential/images/training/image_02/0017/000040.png
+- kitti_sequential/images/training/image_02/0017/000041.png
+- kitti_sequential/images/training/image_02/0017/000042.png
+- kitti_sequential/images/training/image_02/0017/000043.png
+- kitti_sequential/images/training/image_02/0017/000044.png
+- kitti_sequential/images/training/image_02/0017/000045.png
+- kitti_sequential/images/training/image_02/0017/000046.png
+- kitti_sequential/images/training/image_02/0017/000047.png
+- kitti_sequential/images/training/image_02/0017/000048.png
+- kitti_sequential/images/training/image_02/0017/000049.png
+- kitti_sequential/images/training/image_02/0017/000050.png
+- kitti_sequential/images/training/image_02/0017/000051.png
+- kitti_sequential/images/training/image_02/0017/000052.png
+- kitti_sequential/images/training/image_02/0017/000053.png
+- kitti_sequential/images/training/image_02/0017/000054.png
+- kitti_sequential/images/training/image_02/0017/000055.png
+- kitti_sequential/images/training/image_02/0017/000056.png
+- kitti_sequential/images/training/image_02/0017/000057.png
+- kitti_sequential/images/training/image_02/0017/000058.png
+- kitti_sequential/images/training/image_02/0017/000059.png
+- kitti_sequential/images/training/image_02/0017/000060.png
+- kitti_sequential/images/training/image_02/0017/000061.png
+- kitti_sequential/images/training/image_02/0017/000062.png
+- kitti_sequential/images/training/image_02/0017/000063.png
+- kitti_sequential/images/training/image_02/0017/000064.png
+- kitti_sequential/images/training/image_02/0017/000065.png
+- kitti_sequential/images/training/image_02/0017/000066.png
+- kitti_sequential/images/training/image_02/0017/000067.png
+- kitti_sequential/images/training/image_02/0017/000068.png
+- kitti_sequential/images/training/image_02/0017/000069.png
+- kitti_sequential/images/training/image_02/0017/000070.png
+- kitti_sequential/images/training/image_02/0017/000071.png
+- kitti_sequential/images/training/image_02/0017/000072.png
+- kitti_sequential/images/training/image_02/0017/000073.png
+- kitti_sequential/images/training/image_02/0017/000074.png
+- kitti_sequential/images/training/image_02/0017/000075.png
+- kitti_sequential/images/training/image_02/0017/000076.png
+- kitti_sequential/images/training/image_02/0017/000077.png
+- kitti_sequential/images/training/image_02/0017/000078.png
+- kitti_sequential/images/training/image_02/0017/000079.png
+- kitti_sequential/images/training/image_02/0017/000080.png
+- kitti_sequential/images/training/image_02/0017/000081.png
+- kitti_sequential/images/training/image_02/0017/000082.png
+- kitti_sequential/images/training/image_02/0017/000083.png
+- kitti_sequential/images/training/image_02/0017/000084.png
+- kitti_sequential/images/training/image_02/0017/000085.png
+- kitti_sequential/images/training/image_02/0017/000086.png
+- kitti_sequential/images/training/image_02/0017/000087.png
+- kitti_sequential/images/training/image_02/0017/000088.png
+- kitti_sequential/images/training/image_02/0017/000089.png
+- kitti_sequential/images/training/image_02/0017/000090.png
+- kitti_sequential/images/training/image_02/0017/000091.png
+- kitti_sequential/images/training/image_02/0017/000092.png
+- kitti_sequential/images/training/image_02/0017/000093.png
+- kitti_sequential/images/training/image_02/0017/000094.png
+- kitti_sequential/images/training/image_02/0017/000095.png
+- kitti_sequential/images/training/image_02/0017/000096.png
+- kitti_sequential/images/training/image_02/0017/000097.png
+- kitti_sequential/images/training/image_02/0017/000098.png
+- kitti_sequential/images/training/image_02/0017/000099.png
+- kitti_sequential/images/training/image_02/0017/000100.png
+- kitti_sequential/images/training/image_02/0017/000101.png
+- kitti_sequential/images/training/image_02/0017/000102.png
+- kitti_sequential/images/training/image_02/0017/000103.png
+- kitti_sequential/images/training/image_02/0017/000104.png
+- kitti_sequential/images/training/image_02/0017/000105.png
+- kitti_sequential/images/training/image_02/0017/000106.png
+- kitti_sequential/images/training/image_02/0017/000107.png
+- kitti_sequential/images/training/image_02/0017/000108.png
+- kitti_sequential/images/training/image_02/0017/000109.png
+- kitti_sequential/images/training/image_02/0017/000110.png
+- kitti_sequential/images/training/image_02/0017/000111.png
+- kitti_sequential/images/training/image_02/0017/000112.png
+- kitti_sequential/images/training/image_02/0017/000113.png
+- kitti_sequential/images/training/image_02/0017/000114.png
+- kitti_sequential/images/training/image_02/0017/000115.png
+- kitti_sequential/images/training/image_02/0017/000116.png
+- kitti_sequential/images/training/image_02/0017/000117.png
+- kitti_sequential/images/training/image_02/0017/000118.png
+- kitti_sequential/images/training/image_02/0017/000119.png
+- kitti_sequential/images/training/image_02/0017/000120.png
+- kitti_sequential/images/training/image_02/0017/000121.png
+- kitti_sequential/images/training/image_02/0017/000122.png
+- kitti_sequential/images/training/image_02/0017/000123.png
+- kitti_sequential/images/training/image_02/0017/000124.png
+- kitti_sequential/images/training/image_02/0017/000125.png
+- kitti_sequential/images/training/image_02/0017/000126.png
+- kitti_sequential/images/training/image_02/0017/000127.png
+- kitti_sequential/images/training/image_02/0017/000128.png
+- kitti_sequential/images/training/image_02/0017/000129.png
+- kitti_sequential/images/training/image_02/0017/000130.png
+- kitti_sequential/images/training/image_02/0017/000131.png
+- kitti_sequential/images/training/image_02/0017/000132.png
+- kitti_sequential/images/training/image_02/0017/000133.png
+- kitti_sequential/images/training/image_02/0017/000134.png
+- kitti_sequential/images/training/image_02/0017/000135.png
+- kitti_sequential/images/training/image_02/0017/000136.png
+- kitti_sequential/images/training/image_02/0017/000137.png
+- kitti_sequential/images/training/image_02/0017/000138.png
+- kitti_sequential/images/training/image_02/0017/000139.png
+- kitti_sequential/images/training/image_02/0017/000140.png
+- kitti_sequential/images/training/image_02/0017/000141.png
+- kitti_sequential/images/training/image_02/0017/000142.png
+- kitti_sequential/images/training/image_02/0017/000143.png
+- kitti_sequential/images/training/image_02/0017/000144.png
+Duplicate Frame Ratio: 0.0
+Image Folder: kitti_sequential/images/training/image_02/0017
+Label Folder: kitti_sequential/labels/training/label_02/0017
+Laplacian Cutoffs:
+  '0.0': 819.5531910579989
+  '0.05': 862.052426064468
+  '0.1': 871.0342452529139
+  '0.15000000000000002': 875.1322357740439
+  '0.2': 883.8288295968423
+  '0.25': 889.0114821021145
+  '0.30000000000000004': 892.7039272644554
+  '0.35000000000000003': 895.619543892404
+  '0.4': 897.2299949604694
+  '0.45': 898.7849831600934
+  '0.5': 902.2515312158172
+  '0.55': 903.7339184403511
+  '0.6000000000000001': 907.3700352429665
+  '0.65': 912.3689547566987
+  '0.7000000000000001': 923.5868094952943
+  '0.75': 939.5511206347833
+  '0.8': 956.5022657398936
+  '0.8500000000000001': 973.5952896434212
+  '0.9': 999.2592299822472
+  '0.9500000000000001': 1025.7373083552827
+Laplacian Threshold Remainders:
+  300 Threshold: 1.0
+  400 Threshold: 1.0
+  500 Threshold: 1.0
+  600 Threshold: 1.0
+  700 Threshold: 1.0
+  800 Threshold: 1.0
+  900 Threshold: 0.5310344827586206
+Maximum Laplacian Variance: 1060.398789885384
+Median Frame Similarity: 0.9044843421195271
+Median Laplacian Variance: 902.2515312158172
+Minimum Laplacian Variance: 819.5531910579989
+Noisy Frame Ratio: 0.027586206896551724
+Removed Blurry Frame Count: 4
+Removed Blurry Frames:
+- kitti_sequential/images/training/image_02/0017/000000.png
+- kitti_sequential/images/training/image_02/0017/000001.png
+- kitti_sequential/images/training/image_02/0017/000002.png
+- kitti_sequential/images/training/image_02/0017/000073.png
+Removed Duplicate Frame Count: 0
+Removed Duplicate Frames: []
+SSIM Threshold Remainders:
+  0.2 Threshold: 0.993103448275862
+  0.25 Threshold: 0.993103448275862
+  0.3 Threshold: 0.993103448275862
+  0.35 Threshold: 0.993103448275862
+  0.39999999999999997 Threshold: 0.993103448275862
+  0.44999999999999996 Threshold: 0.993103448275862
+  0.49999999999999994 Threshold: 0.993103448275862
+  0.5499999999999999 Threshold: 0.993103448275862
+  0.5999999999999999 Threshold: 0.993103448275862
+  0.6499999999999999 Threshold: 0.993103448275862
+  0.7 Threshold: 0.993103448275862
+  0.7499999999999998 Threshold: 0.993103448275862
+  0.7999999999999998 Threshold: 0.993103448275862
+Sequence Classification:
+- !!python/tuple
+  - e
+  - 2
+Similarity Cutoffs:
+  '0.0': 0.8330005463581469
+  '0.05': 0.8410922230415926
+  '0.1': 0.849788041682812
+  '0.15000000000000002': 0.8601282171628873
+  '0.2': 0.8637331045787318
+  '0.25': 0.8691450023890028
+  '0.30000000000000004': 0.873160547839892
+  '0.35000000000000003': 0.8798069540671534
+  '0.4': 0.8863361758437974
+  '0.45': 0.9009132282871404
+  '0.5': 0.9044843421195271
+  '0.55': 0.908204500019451
+  '0.6000000000000001': 0.9138920098754398
+  '0.65': 0.9179329727470713
+  '0.7000000000000001': 0.9208028718385614
+  '0.75': 0.9256504752945909
+  '0.8': 0.927961501201201
+  '0.8500000000000001': 0.9364907966467975
+  '0.9': 0.9451478074734658
+  '0.9500000000000001': 0.9520348191047084
+Total Original Frames: 145

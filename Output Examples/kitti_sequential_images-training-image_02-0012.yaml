@@ -1,0 +1,1610 @@
+Classification Information:
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 4
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000000.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+  Number of Detections: 9
+  Number of GT Labels: 4
+  Objects Detected:
+    bicycle: 1
+    car: 4
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 6
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000001.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+  Number of Detections: 11
+  Number of GT Labels: 4
+  Objects Detected:
+    bicycle: 1
+    car: 6
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 3
+    motorcycle: 1
+    person: 2
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0012/000002.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+  Number of Detections: 10
+  Number of GT Labels: 4
+  Objects Detected:
+    bicycle: 1
+    car: 3
+    motorcycle: 1
+    person: 2
+    traffic light: 3
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 3
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000003.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+  Number of Detections: 8
+  Number of GT Labels: 4
+  Objects Detected:
+    bicycle: 1
+    car: 3
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 1
+    motorcycle: 1
+    person: 2
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000004.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+  Number of Detections: 7
+  Number of GT Labels: 4
+  Objects Detected:
+    bicycle: 1
+    car: 1
+    motorcycle: 1
+    person: 2
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 3
+    motorcycle: 1
+    person: 3
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000005.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+  Number of Detections: 10
+  Number of GT Labels: 4
+  Objects Detected:
+    bicycle: 1
+    car: 3
+    motorcycle: 1
+    person: 3
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 2
+    car: 4
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000006.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+  Number of Detections: 10
+  Number of GT Labels: 4
+  Objects Detected:
+    bicycle: 2
+    car: 4
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 3
+    motorcycle: 1
+    person: 2
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000007.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+  Number of Detections: 9
+  Number of GT Labels: 4
+  Objects Detected:
+    bicycle: 1
+    car: 3
+    motorcycle: 1
+    person: 2
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 3
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000008.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+  Number of Detections: 8
+  Number of GT Labels: 4
+  Objects Detected:
+    bicycle: 1
+    car: 3
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 1
+    motorcycle: 1
+    person: 2
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000009.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+  Number of Detections: 7
+  Number of GT Labels: 4
+  Objects Detected:
+    bicycle: 1
+    car: 1
+    motorcycle: 1
+    person: 2
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 1
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000010.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+  Number of Detections: 6
+  Number of GT Labels: 4
+  Objects Detected:
+    bicycle: 1
+    car: 1
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 1
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000011.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+  Number of Detections: 6
+  Number of GT Labels: 4
+  Objects Detected:
+    bicycle: 1
+    car: 1
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 3
+    motorcycle: 1
+    person: 2
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000012.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+  Number of Detections: 9
+  Number of GT Labels: 4
+  Objects Detected:
+    bicycle: 1
+    car: 3
+    motorcycle: 1
+    person: 2
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 4
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000013.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 9
+  Number of GT Labels: 5
+  Objects Detected:
+    bicycle: 1
+    car: 4
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 1
+    motorcycle: 1
+    person: 1
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0012/000014.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 7
+  Number of GT Labels: 5
+  Objects Detected:
+    bicycle: 1
+    car: 1
+    motorcycle: 1
+    person: 1
+    traffic light: 3
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 7
+    motorcycle: 1
+    person: 1
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0012/000015.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 13
+  Number of GT Labels: 5
+  Objects Detected:
+    bicycle: 1
+    car: 7
+    motorcycle: 1
+    person: 1
+    traffic light: 3
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 3
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000016.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 8
+  Number of GT Labels: 5
+  Objects Detected:
+    bicycle: 1
+    car: 3
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 2
+    motorcycle: 1
+    person: 2
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000017.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 8
+  Number of GT Labels: 5
+  Objects Detected:
+    bicycle: 1
+    car: 2
+    motorcycle: 1
+    person: 2
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 1
+    motorcycle: 2
+    person: 1
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0012/000018.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 8
+  Number of GT Labels: 5
+  Objects Detected:
+    bicycle: 1
+    car: 1
+    motorcycle: 2
+    person: 1
+    traffic light: 3
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 4
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000019.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 9
+  Number of GT Labels: 5
+  Objects Detected:
+    bicycle: 1
+    car: 4
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 4
+    motorcycle: 1
+    person: 2
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000020.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 10
+  Number of GT Labels: 5
+  Objects Detected:
+    bicycle: 1
+    car: 4
+    motorcycle: 1
+    person: 2
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 3
+    motorcycle: 2
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000021.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 9
+  Number of GT Labels: 5
+  Objects Detected:
+    bicycle: 1
+    car: 3
+    motorcycle: 2
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 2
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000022.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 7
+  Number of GT Labels: 5
+  Objects Detected:
+    bicycle: 1
+    car: 2
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 3
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000023.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 8
+  Number of GT Labels: 5
+  Objects Detected:
+    bicycle: 1
+    car: 3
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 3
+    motorcycle: 2
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000024.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 9
+  Number of GT Labels: 5
+  Objects Detected:
+    bicycle: 1
+    car: 3
+    motorcycle: 2
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 6
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000025.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 11
+  Number of GT Labels: 5
+  Objects Detected:
+    bicycle: 1
+    car: 6
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 4
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000026.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 9
+  Number of GT Labels: 5
+  Objects Detected:
+    bicycle: 1
+    car: 4
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 4
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000027.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 9
+  Number of GT Labels: 5
+  Objects Detected:
+    bicycle: 1
+    car: 4
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 5
+    motorcycle: 1
+    person: 2
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000028.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 11
+  Number of GT Labels: 5
+  Objects Detected:
+    bicycle: 1
+    car: 5
+    motorcycle: 1
+    person: 2
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 5
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000029.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 10
+  Number of GT Labels: 5
+  Objects Detected:
+    bicycle: 1
+    car: 5
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 3
+    motorcycle: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000030.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 7
+  Number of GT Labels: 5
+  Objects Detected:
+    bicycle: 1
+    car: 3
+    motorcycle: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 4
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000031.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 9
+  Number of GT Labels: 5
+  Objects Detected:
+    bicycle: 1
+    car: 4
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 3
+    motorcycle: 1
+    person: 2
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000032.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 9
+  Number of GT Labels: 5
+  Objects Detected:
+    bicycle: 1
+    car: 3
+    motorcycle: 1
+    person: 2
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 5
+    motorcycle: 2
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000033.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 11
+  Number of GT Labels: 5
+  Objects Detected:
+    bicycle: 1
+    car: 5
+    motorcycle: 2
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 6
+    motorcycle: 2
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000034.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 12
+  Number of GT Labels: 5
+  Objects Detected:
+    bicycle: 1
+    car: 6
+    motorcycle: 2
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 7
+    motorcycle: 2
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000035.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 13
+  Number of GT Labels: 5
+  Objects Detected:
+    bicycle: 1
+    car: 7
+    motorcycle: 2
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 7
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000036.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 12
+  Number of GT Labels: 5
+  Objects Detected:
+    bicycle: 1
+    car: 7
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 2
+    car: 7
+    motorcycle: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000037.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 12
+  Number of GT Labels: 5
+  Objects Detected:
+    bicycle: 2
+    car: 7
+    motorcycle: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    bicycle: 1
+    car: 7
+    motorcycle: 1
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0012/000038.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 12
+  Number of GT Labels: 5
+  Objects Detected:
+    bicycle: 1
+    car: 7
+    motorcycle: 1
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 5
+    motorcycle: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000039.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 8
+  Number of GT Labels: 5
+  Objects Detected:
+    car: 5
+    motorcycle: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 5
+    motorcycle: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000040.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    Cyclist: 1
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 8
+  Number of GT Labels: 5
+  Objects Detected:
+    car: 5
+    motorcycle: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 6
+    motorcycle: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000041.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 9
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 6
+    motorcycle: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 5
+    motorcycle: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000042.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 8
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 5
+    motorcycle: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 5
+    motorcycle: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000043.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 8
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 5
+    motorcycle: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 6
+    motorcycle: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000044.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 9
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 6
+    motorcycle: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 6
+    motorcycle: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000045.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 9
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 6
+    motorcycle: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 4
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000046.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 8
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 4
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 7
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000047.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 11
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 7
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 6
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000048.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 10
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 6
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 5
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000049.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 9
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 5
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 5
+    motorcycle: 1
+    person: 2
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000050.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 10
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 5
+    motorcycle: 1
+    person: 2
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 5
+    motorcycle: 1
+    person: 2
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000051.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    DontCare: 1
+    Pedestrian: 1
+  Number of Detections: 10
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 5
+    motorcycle: 1
+    person: 2
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 5
+    motorcycle: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000052.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    DontCare: 2
+    Pedestrian: 1
+  Number of Detections: 8
+  Number of GT Labels: 5
+  Objects Detected:
+    car: 5
+    motorcycle: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 6
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000053.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    DontCare: 2
+    Pedestrian: 1
+  Number of Detections: 10
+  Number of GT Labels: 5
+  Objects Detected:
+    car: 6
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 7
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000054.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    DontCare: 2
+    Pedestrian: 1
+  Number of Detections: 11
+  Number of GT Labels: 5
+  Objects Detected:
+    car: 7
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 4
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000055.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    DontCare: 2
+    Pedestrian: 1
+  Number of Detections: 8
+  Number of GT Labels: 5
+  Objects Detected:
+    car: 4
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 5
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000056.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    DontCare: 2
+    Pedestrian: 1
+  Number of Detections: 9
+  Number of GT Labels: 5
+  Objects Detected:
+    car: 5
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 7
+    motorcycle: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000057.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    DontCare: 2
+    Pedestrian: 1
+  Number of Detections: 10
+  Number of GT Labels: 5
+  Objects Detected:
+    car: 7
+    motorcycle: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 5
+    motorcycle: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000058.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    DontCare: 2
+    Pedestrian: 1
+  Number of Detections: 8
+  Number of GT Labels: 5
+  Objects Detected:
+    car: 5
+    motorcycle: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 6
+    motorcycle: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000059.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    DontCare: 2
+    Pedestrian: 1
+  Number of Detections: 9
+  Number of GT Labels: 5
+  Objects Detected:
+    car: 6
+    motorcycle: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 3
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000060.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    DontCare: 2
+    Pedestrian: 1
+  Number of Detections: 7
+  Number of GT Labels: 5
+  Objects Detected:
+    car: 3
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 5
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000061.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    DontCare: 2
+    Pedestrian: 1
+  Number of Detections: 9
+  Number of GT Labels: 5
+  Objects Detected:
+    car: 5
+    motorcycle: 1
+    person: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 6
+    motorcycle: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000062.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    DontCare: 2
+    Pedestrian: 1
+  Number of Detections: 9
+  Number of GT Labels: 5
+  Objects Detected:
+    car: 6
+    motorcycle: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 8
+    motorcycle: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000063.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    DontCare: 2
+    Pedestrian: 1
+  Number of Detections: 11
+  Number of GT Labels: 5
+  Objects Detected:
+    car: 8
+    motorcycle: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 11
+    motorcycle: 1
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0012/000064.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    DontCare: 2
+    Pedestrian: 1
+  Number of Detections: 15
+  Number of GT Labels: 5
+  Objects Detected:
+    car: 11
+    motorcycle: 1
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 11
+    motorcycle: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000065.png
+  GT Classification: City
+  GT Objects:
+    Car: 2
+    DontCare: 2
+    Pedestrian: 1
+  Number of Detections: 14
+  Number of GT Labels: 5
+  Objects Detected:
+    car: 11
+    motorcycle: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 9
+    motorcycle: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000066.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Pedestrian: 1
+  Number of Detections: 12
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 9
+    motorcycle: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 11
+    motorcycle: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000067.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Pedestrian: 1
+  Number of Detections: 14
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 11
+    motorcycle: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 10
+    motorcycle: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000068.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Pedestrian: 1
+  Number of Detections: 13
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 10
+    motorcycle: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 8
+    motorcycle: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000069.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Pedestrian: 1
+  Number of Detections: 11
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 8
+    motorcycle: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 5
+    motorcycle: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000070.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Pedestrian: 1
+  Number of Detections: 8
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 5
+    motorcycle: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 5
+    motorcycle: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000071.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Pedestrian: 1
+  Number of Detections: 8
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 5
+    motorcycle: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 6
+    motorcycle: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000072.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Pedestrian: 1
+  Number of Detections: 9
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 6
+    motorcycle: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 6
+    motorcycle: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000073.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Pedestrian: 1
+  Number of Detections: 9
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 6
+    motorcycle: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 6
+    motorcycle: 1
+    traffic light: 3
+  Frame: kitti_sequential/images/training/image_02/0012/000074.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Pedestrian: 1
+  Number of Detections: 10
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 6
+    motorcycle: 1
+    traffic light: 3
+- Difference between Detections and GT:
+    car: 5
+    motorcycle: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000075.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Pedestrian: 1
+  Number of Detections: 8
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 5
+    motorcycle: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 5
+    motorcycle: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000076.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 2
+    Pedestrian: 1
+  Number of Detections: 8
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 5
+    motorcycle: 1
+    traffic light: 2
+- Difference between Detections and GT:
+    car: 4
+    motorcycle: 1
+    traffic light: 2
+  Frame: kitti_sequential/images/training/image_02/0012/000077.png
+  GT Classification: Rural
+  GT Objects:
+    Car: 1
+    DontCare: 3
+  Number of Detections: 7
+  Number of GT Labels: 4
+  Objects Detected:
+    car: 4
+    motorcycle: 1
+    traffic light: 2
+Clean Frames:
+- kitti_sequential/images/training/image_02/0012/000000.png
+- kitti_sequential/images/training/image_02/0012/000001.png
+- kitti_sequential/images/training/image_02/0012/000002.png
+- kitti_sequential/images/training/image_02/0012/000003.png
+- kitti_sequential/images/training/image_02/0012/000004.png
+- kitti_sequential/images/training/image_02/0012/000005.png
+- kitti_sequential/images/training/image_02/0012/000006.png
+- kitti_sequential/images/training/image_02/0012/000007.png
+- kitti_sequential/images/training/image_02/0012/000008.png
+- kitti_sequential/images/training/image_02/0012/000009.png
+- kitti_sequential/images/training/image_02/0012/000010.png
+- kitti_sequential/images/training/image_02/0012/000011.png
+- kitti_sequential/images/training/image_02/0012/000012.png
+- kitti_sequential/images/training/image_02/0012/000013.png
+- kitti_sequential/images/training/image_02/0012/000014.png
+- kitti_sequential/images/training/image_02/0012/000015.png
+- kitti_sequential/images/training/image_02/0012/000016.png
+- kitti_sequential/images/training/image_02/0012/000017.png
+- kitti_sequential/images/training/image_02/0012/000018.png
+- kitti_sequential/images/training/image_02/0012/000019.png
+- kitti_sequential/images/training/image_02/0012/000020.png
+- kitti_sequential/images/training/image_02/0012/000021.png
+- kitti_sequential/images/training/image_02/0012/000022.png
+- kitti_sequential/images/training/image_02/0012/000023.png
+- kitti_sequential/images/training/image_02/0012/000024.png
+- kitti_sequential/images/training/image_02/0012/000025.png
+- kitti_sequential/images/training/image_02/0012/000026.png
+- kitti_sequential/images/training/image_02/0012/000027.png
+- kitti_sequential/images/training/image_02/0012/000028.png
+- kitti_sequential/images/training/image_02/0012/000029.png
+- kitti_sequential/images/training/image_02/0012/000030.png
+- kitti_sequential/images/training/image_02/0012/000031.png
+- kitti_sequential/images/training/image_02/0012/000032.png
+- kitti_sequential/images/training/image_02/0012/000033.png
+- kitti_sequential/images/training/image_02/0012/000034.png
+- kitti_sequential/images/training/image_02/0012/000035.png
+- kitti_sequential/images/training/image_02/0012/000036.png
+- kitti_sequential/images/training/image_02/0012/000037.png
+- kitti_sequential/images/training/image_02/0012/000038.png
+- kitti_sequential/images/training/image_02/0012/000039.png
+- kitti_sequential/images/training/image_02/0012/000040.png
+- kitti_sequential/images/training/image_02/0012/000041.png
+- kitti_sequential/images/training/image_02/0012/000042.png
+- kitti_sequential/images/training/image_02/0012/000043.png
+- kitti_sequential/images/training/image_02/0012/000044.png
+- kitti_sequential/images/training/image_02/0012/000045.png
+- kitti_sequential/images/training/image_02/0012/000046.png
+- kitti_sequential/images/training/image_02/0012/000047.png
+- kitti_sequential/images/training/image_02/0012/000048.png
+- kitti_sequential/images/training/image_02/0012/000049.png
+- kitti_sequential/images/training/image_02/0012/000050.png
+- kitti_sequential/images/training/image_02/0012/000051.png
+- kitti_sequential/images/training/image_02/0012/000052.png
+- kitti_sequential/images/training/image_02/0012/000053.png
+- kitti_sequential/images/training/image_02/0012/000054.png
+- kitti_sequential/images/training/image_02/0012/000055.png
+- kitti_sequential/images/training/image_02/0012/000056.png
+- kitti_sequential/images/training/image_02/0012/000057.png
+- kitti_sequential/images/training/image_02/0012/000058.png
+- kitti_sequential/images/training/image_02/0012/000059.png
+- kitti_sequential/images/training/image_02/0012/000060.png
+- kitti_sequential/images/training/image_02/0012/000061.png
+- kitti_sequential/images/training/image_02/0012/000062.png
+- kitti_sequential/images/training/image_02/0012/000063.png
+- kitti_sequential/images/training/image_02/0012/000064.png
+- kitti_sequential/images/training/image_02/0012/000065.png
+- kitti_sequential/images/training/image_02/0012/000066.png
+- kitti_sequential/images/training/image_02/0012/000067.png
+- kitti_sequential/images/training/image_02/0012/000068.png
+- kitti_sequential/images/training/image_02/0012/000069.png
+- kitti_sequential/images/training/image_02/0012/000070.png
+- kitti_sequential/images/training/image_02/0012/000071.png
+- kitti_sequential/images/training/image_02/0012/000072.png
+- kitti_sequential/images/training/image_02/0012/000073.png
+- kitti_sequential/images/training/image_02/0012/000074.png
+- kitti_sequential/images/training/image_02/0012/000075.png
+- kitti_sequential/images/training/image_02/0012/000076.png
+- kitti_sequential/images/training/image_02/0012/000077.png
+Duplicate Frame Ratio: 0.0
+Image Folder: kitti_sequential/images/training/image_02/0012
+Label Folder: kitti_sequential/labels/training/label_02/0012
+Laplacian Cutoffs:
+  '0.0': 515.5263604625949
+  '0.05': 516.1593383268626
+  '0.1': 516.7213864488014
+  '0.15000000000000002': 517.7987783701133
+  '0.2': 518.416915742292
+  '0.25': 519.3445547572886
+  '0.30000000000000004': 519.6909108931011
+  '0.35000000000000003': 520.4200304903005
+  '0.4': 520.7010983682244
+  '0.45': 520.8000546187649
+  '0.5': 520.976746250042
+  '0.55': 521.2157438449166
+  '0.6000000000000001': 521.3860863301144
+  '0.65': 521.5871759198155
+  '0.7000000000000001': 522.5840476395485
+  '0.75': 524.6610258694036
+  '0.8': 529.155662775127
+  '0.8500000000000001': 530.1692076737127
+  '0.9': 532.3585003553164
+  '0.9500000000000001': 536.060437768835
+Laplacian Threshold Remainders:
+  300 Threshold: 1.0
+  400 Threshold: 1.0
+  500 Threshold: 1.0
+  600 Threshold: 0.0
+  700 Threshold: 0.0
+  800 Threshold: 0.0
+  900 Threshold: 0.0
+Maximum Laplacian Variance: 544.5983556986756
+Median Frame Similarity: 0.9863054017177506
+Median Laplacian Variance: 520.976746250042
+Minimum Laplacian Variance: 515.5263604625949
+Noisy Frame Ratio: 0.0
+Removed Blurry Frame Count: 0
+Removed Blurry Frames: []
+Removed Duplicate Frame Count: 0
+Removed Duplicate Frames: []
+SSIM Threshold Remainders:
+  0.2 Threshold: 0.9871794871794872
+  0.25 Threshold: 0.9871794871794872
+  0.3 Threshold: 0.9871794871794872
+  0.35 Threshold: 0.9871794871794872
+  0.39999999999999997 Threshold: 0.9871794871794872
+  0.44999999999999996 Threshold: 0.9871794871794872
+  0.49999999999999994 Threshold: 0.9871794871794872
+  0.5499999999999999 Threshold: 0.9871794871794872
+  0.5999999999999999 Threshold: 0.9871794871794872
+  0.6499999999999999 Threshold: 0.9871794871794872
+  0.7 Threshold: 0.9871794871794872
+  0.7499999999999998 Threshold: 0.9871794871794872
+  0.7999999999999998 Threshold: 0.9871794871794872
+Sequence Classification:
+- !!python/tuple
+  - R
+  - 1
+Similarity Cutoffs:
+  '0.0': 0.9666239451050397
+  '0.05': 0.967630000499857
+  '0.1': 0.9689083507600561
+  '0.15000000000000002': 0.9705554596934952
+  '0.2': 0.9719040984539434
+  '0.25': 0.9739401829913711
+  '0.30000000000000004': 0.9753772073349455
+  '0.35000000000000003': 0.9759199954746074
+  '0.4': 0.9782899495147811
+  '0.45': 0.9793080673198398
+  '0.5': 0.9863054017177506
+  '0.55': 0.9872915671316514
+  '0.6000000000000001': 0.9873980885554562
+  '0.65': 0.9874691639734959
+  '0.7000000000000001': 0.9875743074220609
+  '0.75': 0.9875970708823507
+  '0.8': 0.9876380962121423
+  '0.8500000000000001': 0.9876646208107677
+  '0.9': 0.9877138995320582
+  '0.9500000000000001': 0.9877850633787114
+Total Original Frames: 78
