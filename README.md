@@ -20,7 +20,7 @@ The `yaml` file contains the following metadata of the video:
 
 **Examples of the Output File can be found [HERE](https://github.com/James-Yuichi-Sato/MLSYS-2022-Video-Pipeline/Output-Examples/)**
 
-<img src="media\yaml.png" alt="media\yaml.png"></img>
+<img src=".media\yaml.png" alt=".media\yaml.png"></img>
 
 Example of `yaml` output
 
